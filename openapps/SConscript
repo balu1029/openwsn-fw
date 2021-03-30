@@ -13,6 +13,7 @@ apps = [
     'cled',
     'cwellknown',
     'uecho',
+    'uecho_dup',
     'uinject',
     'userialbridge',
     'uexpiration',
