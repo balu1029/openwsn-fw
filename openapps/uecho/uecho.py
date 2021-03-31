@@ -26,8 +26,9 @@ print "------------------------\n"
 
 num_tries = raw_input("> Number of echoes [10]? ")
 pld_size = raw_input("> Payload size [50]? ")
-address = raw_input("> Destination address [bbbb::1415:92cc:0:2]? ")
+address = raw_input("> Destination address [bbbb::1415:92cc:0:2] (only last byte)? ")
 timeout = raw_input("> Set timeout value [10]? ")
+hisPort = raw_input("> which port? [7]? ")
 
 print '\n Starting ...\n'
 
@@ -44,16 +45,20 @@ else:
 if address == '':
     hisAddress = 'bbbb:0:0:0:1415:92cc:0:2'
 else:
-    hisAddress = address
+    hisAddress = 'bbbb:0:0:0:1415:92cc:0:' + address
 
 if timeout == '':
     timeout = 10
 else:
     timeout = int(timeout)
+    
+if hisPort == '':
+    hisPort = 7
+else:
+    hisPort = int(hisPort)
 
 myAddress = ''  # means 'all'
 myPort = randint(1024, 65535)
-hisPort = 7
 delays = []
 succ = 0
 fail = 0

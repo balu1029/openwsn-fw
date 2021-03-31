@@ -32,6 +32,10 @@
 #include "uecho.h"
 #endif
 
+#if OPENWSN_UECHO_DUP_C
+#include "uecho_dup.h"
+#endif
+
 #if OPENWSN_UINJECT_C
 #include "uinject.h"
 #endif
@@ -87,6 +91,10 @@ void openapps_init(void) {
 
 #if OPENWSN_UECHO_C
     uecho_init();
+#endif
+
+#if OPENWSN_UECHO_DUP_C
+    uecho_dup_init();
 #endif
 
 #if OPENWSN_UINJECT_C

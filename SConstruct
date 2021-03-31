@@ -122,7 +122,7 @@ command_line_options = {
         'gcc',
     ],
     'logging': [str(l) for l in range(6)],
-    'apps': ['c6t', 'cexample', 'cinfo', 'cinfrared', 'cled', 'csensors', 'cstorm', 'cwellknown', 'rrt', 'uecho',
+    'apps': ['c6t', 'cexample', 'cinfo', 'cinfrared', 'cled', 'csensors', 'cstorm', 'cwellknown', 'rrt', 'uecho','uecho_dup',
              'uexpiration', 'uexp-monitor', 'uinject', 'userialbridge', 'cjoin', ''],
     'modules': ['coap', 'udp', 'fragmentation', 'icmpv6echo', 'l2-security', ''],
     'stackcfg': ['adaptive-msf', 'dagroot', 'channel', 'pktqueue', 'panid', ''],

@@ -139,7 +139,7 @@
  *
  */
 #ifndef OPENWSN_UECHO_C
-#define OPENWSN_UECHO_C (1)
+#define OPENWSN_UECHO_C (0)
 #endif
 
 /**
