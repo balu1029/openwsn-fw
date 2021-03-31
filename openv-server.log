@@ -671,3 +671,191 @@
 	- parents:
 	   bbbb:0:0:0:1415:92cc:0:3
 	- children:
+09:43:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:43:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:43:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:43:54 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:43:55 INFO 1 [SIXTOP] sending a 6top request
+09:43:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:44:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:44:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:44:18 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:44:18 INFO 1 [SIXTOP] sending a 6top request
+09:44:58 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:44:59 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+09:44:59 VERBOSE cleaning up files: /tmp/tmp9WtEaG
+09:48:44 VERBOSE loading logging configuration: config/logging.conf
+09:48:44 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+09:48:44 INFO opening tun interface
+09:48:44 INFO created following virtual interfaces
+09:48:44 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpcqUBqg'
+09:48:44 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpcqUBqg/linux/oos_openwsn-amd64.so'
+09:48:44 INFO thread initialized
+09:48:44 INFO thread initialized
+09:48:44 INFO thread initialized
+09:48:44 INFO thread initialized
+09:48:44 INFO thread initialized
+09:48:44 INFO extracting firmware definitions.
+09:48:44 VERBOSE extracting firmware component names
+09:48:44 VERBOSE extracting firmware log descriptions.
+09:48:44 VERBOSE extracting 6top return codes.
+09:48:44 VERBOSE extracting 6top states.
+09:48:46 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:48:47 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:48:48 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:48:49 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:48:50 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:48:50 INFO Setting DAG root...
+09:48:50 INFO thread starting
+09:48:50 DEBUG switchOn
+09:48:50 SUCCESS 5 [OPENWSN] booted
+09:48:50 INFO thread starting
+09:48:50 DEBUG switchOn
+09:48:50 SUCCESS 4 [OPENWSN] booted
+09:48:50 INFO thread starting
+09:48:50 DEBUG switchOn
+09:48:50 SUCCESS 3 [OPENWSN] booted
+09:48:50 INFO thread starting
+09:48:50 DEBUG switchOn
+09:48:50 SUCCESS 2 [OPENWSN] booted
+09:48:50 INFO thread starting
+09:48:50 DEBUG switchOn
+09:48:50 SUCCESS 1 [OPENWSN] booted
+09:48:51 SUCCESS Setting mote 0002 as root
+09:48:51 INFO starting RPC server
+09:48:51 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+09:48:52 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+09:49:57 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+09:50:12 ERROR 4 [IEEE802154E] got desynchronized at slotOffset 33
+09:51:20 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+09:51:33 INFO 4 [SIXTOP] sending a 6top request
+09:52:06 ERROR 4 [IEEE802154E] got desynchronized at slotOffset 33
+09:56:01 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+09:56:01 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+09:56:16 ERROR 4 [IEEE802154E] got desynchronized at slotOffset 33
+09:56:22 INFO 1 [SIXTOP] sending a 6top request
+09:56:25 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:56:25 INFO 1 [SIXTOP] sending a 6top request
+09:56:37 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:56:38 INFO 1 [SIXTOP] sending a 6top request
+09:56:41 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:56:41 INFO 1 [SIXTOP] sending a 6top request
+09:57:06 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:57:06 INFO 1 [SIXTOP] sending a 6top request
+09:57:11 ERROR 1 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:57:11 INFO 1 [SIXTOP] sending a 6top request
+09:57:34 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARRESPONSE
+09:57:34 INFO 1 [SIXTOP] sending a 6top request
+09:57:36 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:57:37 INFO 1 [SIXTOP] sending a 6top request
+09:57:40 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:57:41 INFO 1 [SIXTOP] sending a 6top request
+09:57:49 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+09:57:49 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+09:57:50 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:57:50 INFO 1 [SIXTOP] sending a 6top request
+09:57:53 INFO 3 [SIXTOP] sending a 6top request
+09:58:15 ERROR 4 [IEEE802154E] got desynchronized at slotOffset 33
+09:58:23 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:58:24 INFO 1 [SIXTOP] sending a 6top request
+09:58:58 INFO 3 [SIXTOP] sending a 6top request
+09:59:01 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:59:01 INFO 1 [SIXTOP] sending a 6top request
+09:59:14 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:59:14 INFO 1 [SIXTOP] sending a 6top request
+09:59:40 ERROR 1 [IEEE802154E] got desynchronized at slotOffset 35
+10:00:22 INFO 3 [SIXTOP] sending a 6top request
+10:01:16 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+10:01:16 VERBOSE cleaning up files: /tmp/tmpcqUBqg
+10:03:16 VERBOSE loading logging configuration: config/logging.conf
+10:03:16 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+10:03:16 INFO opening tun interface
+10:03:16 INFO created following virtual interfaces
+10:03:16 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpK4ZxJW'
+10:03:16 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpK4ZxJW/linux/oos_openwsn-amd64.so'
+10:03:17 INFO thread initialized
+10:03:17 INFO thread initialized
+10:03:17 INFO thread initialized
+10:03:17 INFO thread initialized
+10:03:17 INFO thread initialized
+10:03:17 INFO extracting firmware definitions.
+10:03:17 VERBOSE extracting firmware component names
+10:03:17 VERBOSE extracting firmware log descriptions.
+10:03:17 VERBOSE extracting 6top return codes.
+10:03:17 VERBOSE extracting 6top states.
+10:03:18 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:19 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:20 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:21 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:22 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:22 INFO Setting DAG root...
+10:03:22 INFO thread starting
+10:03:22 DEBUG switchOn
+10:03:22 SUCCESS 5 [OPENWSN] booted
+10:03:22 INFO thread starting
+10:03:22 DEBUG switchOn
+10:03:22 SUCCESS 4 [OPENWSN] booted
+10:03:22 INFO thread starting
+10:03:22 DEBUG switchOn
+10:03:22 SUCCESS 3 [OPENWSN] booted
+10:03:22 INFO thread starting
+10:03:22 DEBUG switchOn
+10:03:22 SUCCESS 2 [OPENWSN] booted
+10:03:22 INFO thread starting
+10:03:22 DEBUG switchOn
+10:03:22 SUCCESS 1 [OPENWSN] booted
+10:03:23 SUCCESS Setting mote 0002 as root
+10:03:23 INFO starting RPC server
+10:03:23 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+10:03:24 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+10:03:40 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+10:03:51 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+10:03:51 VERBOSE cleaning up files: /tmp/tmpK4ZxJW
+10:03:51 WARNING emulated1; exit loop
+10:03:51 WARNING emulated5; exit loop
