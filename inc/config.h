@@ -139,7 +139,7 @@
  *
  */
 #ifndef OPENWSN_UECHO_C
-#define OPENWSN_UECHO_C (0)
+#define OPENWSN_UECHO_C (1)
 #endif
 
 /**
@@ -260,7 +260,7 @@
  *
  */
 #ifndef OPENWSN_6LO_FRAGMENTATION_C
-#define OPENWSN_6LO_FRAGMENTATION_C (0)
+#define OPENWSN_6LO_FRAGMENTATION_C (1)
 #endif
 
 #if OPENWSN_6LO_FRAGMENTATION_C

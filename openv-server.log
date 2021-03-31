@@ -859,3 +859,399 @@
 10:03:51 VERBOSE cleaning up files: /tmp/tmpK4ZxJW
 10:03:51 WARNING emulated1; exit loop
 10:03:51 WARNING emulated5; exit loop
+12:48:16 VERBOSE loading logging configuration: config/logging.conf
+12:48:16 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+12:48:16 INFO opening tun interface
+12:48:16 INFO created following virtual interfaces
+12:48:16 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpELNS2p'
+12:48:16 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpELNS2p/linux/oos_openwsn-amd64.so'
+12:48:16 INFO thread initialized
+12:48:16 INFO thread initialized
+12:48:16 INFO thread initialized
+12:48:16 INFO thread initialized
+12:48:16 INFO thread initialized
+12:48:16 INFO extracting firmware definitions.
+12:48:16 VERBOSE extracting firmware component names
+12:48:16 VERBOSE extracting firmware log descriptions.
+12:48:16 VERBOSE extracting 6top return codes.
+12:48:16 VERBOSE extracting 6top states.
+12:48:17 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:48:18 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:48:19 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:48:20 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:48:21 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:48:22 INFO Setting DAG root...
+12:48:22 INFO thread starting
+12:48:22 DEBUG switchOn
+12:48:22 SUCCESS 5 [OPENWSN] booted
+12:48:22 INFO thread starting
+12:48:22 DEBUG switchOn
+12:48:22 SUCCESS 4 [OPENWSN] booted
+12:48:22 INFO thread starting
+12:48:22 DEBUG switchOn
+12:48:22 SUCCESS 3 [OPENWSN] booted
+12:48:22 INFO thread starting
+12:48:22 DEBUG switchOn
+12:48:22 SUCCESS 2 [OPENWSN] booted
+12:48:22 INFO thread starting
+12:48:22 DEBUG switchOn
+12:48:22 SUCCESS 1 [OPENWSN] booted
+12:48:23 SUCCESS Setting mote 0002 as root
+12:48:23 INFO starting RPC server
+12:48:23 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+12:48:24 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+12:48:36 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+12:48:36 VERBOSE cleaning up files: /tmp/tmpELNS2p
+12:52:38 VERBOSE loading logging configuration: config/logging.conf
+12:52:38 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+12:52:38 INFO opening tun interface
+12:52:38 INFO created following virtual interfaces
+12:52:38 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpZPrGDn'
+12:52:38 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpZPrGDn/linux/oos_openwsn-amd64.so'
+12:52:38 INFO thread initialized
+12:52:38 INFO thread initialized
+12:52:38 INFO thread initialized
+12:52:38 INFO thread initialized
+12:52:38 INFO thread initialized
+12:52:38 INFO extracting firmware definitions.
+12:52:38 VERBOSE extracting firmware component names
+12:52:38 VERBOSE extracting firmware log descriptions.
+12:52:38 VERBOSE extracting 6top return codes.
+12:52:38 VERBOSE extracting 6top states.
+12:52:39 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:52:40 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:52:41 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:52:42 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:52:43 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:52:43 INFO Setting DAG root...
+12:52:43 INFO thread starting
+12:52:43 DEBUG switchOn
+12:52:43 SUCCESS 5 [OPENWSN] booted
+12:52:43 INFO thread starting
+12:52:43 DEBUG switchOn
+12:52:43 SUCCESS 4 [OPENWSN] booted
+12:52:43 INFO thread starting
+12:52:43 DEBUG switchOn
+12:52:43 SUCCESS 3 [OPENWSN] booted
+12:52:43 INFO thread starting
+12:52:43 DEBUG switchOn
+12:52:43 SUCCESS 2 [OPENWSN] booted
+12:52:43 INFO thread starting
+12:52:43 DEBUG switchOn
+12:52:43 SUCCESS 1 [OPENWSN] booted
+12:52:45 SUCCESS Setting mote 0002 as root
+12:52:45 INFO starting RPC server
+12:52:45 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+12:52:46 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+12:53:23 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+12:53:23 VERBOSE cleaning up files: /tmp/tmpZPrGDn
+12:54:06 VERBOSE loading logging configuration: config/logging.conf
+12:54:06 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+12:54:06 INFO opening tun interface
+12:54:06 INFO created following virtual interfaces
+12:54:07 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmp49xL5w'
+12:54:07 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmp49xL5w/linux/oos_openwsn-amd64.so'
+12:54:07 INFO thread initialized
+12:54:07 INFO thread initialized
+12:54:07 INFO thread initialized
+12:54:07 INFO thread initialized
+12:54:07 INFO thread initialized
+12:54:07 INFO extracting firmware definitions.
+12:54:07 VERBOSE extracting firmware component names
+12:54:07 VERBOSE extracting firmware log descriptions.
+12:54:07 VERBOSE extracting 6top return codes.
+12:54:07 VERBOSE extracting 6top states.
+12:54:08 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:54:09 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:54:10 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:54:11 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:54:12 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+12:54:12 INFO Setting DAG root...
+12:54:12 INFO thread starting
+12:54:12 DEBUG switchOn
+12:54:12 SUCCESS 5 [OPENWSN] booted
+12:54:12 INFO thread starting
+12:54:12 DEBUG switchOn
+12:54:12 SUCCESS 4 [OPENWSN] booted
+12:54:12 INFO thread starting
+12:54:12 DEBUG switchOn
+12:54:12 SUCCESS 3 [OPENWSN] booted
+12:54:12 INFO thread starting
+12:54:12 DEBUG switchOn
+12:54:12 SUCCESS 2 [OPENWSN] booted
+12:54:12 INFO thread starting
+12:54:12 DEBUG switchOn
+12:54:12 SUCCESS 1 [OPENWSN] booted
+12:54:13 SUCCESS Setting mote 0002 as root
+12:54:13 INFO starting RPC server
+12:54:13 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+12:54:15 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+12:55:19 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+12:55:24 INFO 3 [SIXTOP] sending a 6top request
+12:55:37 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+12:55:40 INFO 5 [SIXTOP] sending a 6top request
+12:55:40 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+12:55:44 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+12:55:44 INFO 3 [SIXTOP] sending a 6top request
+12:55:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+12:55:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+12:55:59 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+12:56:01 INFO 1 [SIXTOP] sending a 6top request
+12:56:01 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+12:56:04 ERROR 3 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDREQUEST_SENDDONE
+12:56:04 INFO 3 [SIXTOP] sending a 6top request
+12:56:06 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+12:56:09 INFO 4 [SIXTOP] sending a 6top request
+12:56:09 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+12:56:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+12:56:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+12:56:34 SUCCESS [GATEWAY] Reassembled 2 frags with tag 892 into an IPv6 packet of size 89
+12:56:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+12:56:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+12:56:46 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1688 into an IPv6 packet of size 89
+12:56:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+12:56:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+12:57:04 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:1 dropped (DESTINATIONUNREACHABLE not supported)
+12:57:04 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-01
+source route:
+ - 14-15-92-cc-00-00-00-01
+payload:           (61B) 01-04-6e-fa-00-00-00-00-60-00-00-00-00-0d-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-01-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-b1-4d-00-0d-ff-47-50-7a-ac-61-34
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 01 01 04 6e fa 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 0d 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  ...@............
+000030  00 00 00 01 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 b1 4d 00 0d ff 47 50 7a ac 61  .......M...GPz.a
+000050  34                                               4
+
+12:57:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+12:57:04 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:1 dropped (DESTINATIONUNREACHABLE not supported)
+12:57:04 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-01
+source route:
+ - 14-15-92-cc-00-00-00-01
+payload:           (61B) 01-04-6e-fa-00-00-00-00-60-00-00-00-00-0d-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-01-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-b1-4d-00-0d-15-4e-a2-dc-80-f8-f7
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 01 01 04 6e fa 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 0d 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  ...@............
+000030  00 00 00 01 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 b1 4d 00 0d 15 4e a2 dc 80 f8  .......M...N....
+000050  f7                                               .
+
+12:57:05 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:1 dropped (DESTINATIONUNREACHABLE not supported)
+12:57:05 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-01
+source route:
+ - 14-15-92-cc-00-00-00-01
+payload:           (61B) 01-04-6e-fa-00-00-00-00-60-00-00-00-00-0d-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-01-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-b1-4d-00-0d-27-03-33-3b-60-e5-75
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 01 01 04 6e fa 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 0d 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  ...@............
+000030  00 00 00 01 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 b1 4d 00 0d 27 03 33 3b 60 e5  .......M..'.3;`.
+000050  75                                               u
+
+12:57:05 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:1 dropped (DESTINATIONUNREACHABLE not supported)
+12:57:05 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-01
+source route:
+ - 14-15-92-cc-00-00-00-01
+payload:           (61B) 01-04-6e-fa-00-00-00-00-60-00-00-00-00-0d-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-01-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-b1-4d-00-0d-c0-65-7d-8a-69-33-89
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 01 01 04 6e fa 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 0d 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  ...@............
+000030  00 00 00 01 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 b1 4d 00 0d c0 65 7d 8a 69 33  .......M...e}.i3
+000050  89                                               .
+
+12:57:05 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:1 dropped (DESTINATIONUNREACHABLE not supported)
+12:57:05 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-01
+source route:
+ - 14-15-92-cc-00-00-00-01
+payload:           (61B) 01-04-6e-fa-00-00-00-00-60-00-00-00-00-0d-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-01-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-b1-4d-00-0d-ef-3c-7c-9d-08-49-bc
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 01 01 04 6e fa 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 0d 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  ...@............
+000030  00 00 00 01 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 b1 4d 00 0d ef 3c 7c 9d 08 49  .......M...<|..I
+000050  bc                                               .
+
+12:57:06 SUCCESS [GATEWAY] Reassembled 2 frags with tag 893 into an IPv6 packet of size 90
+12:57:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+12:57:07 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:1 dropped (DESTINATIONUNREACHABLE not supported)
+12:57:07 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-01
+source route:
+ - 14-15-92-cc-00-00-00-01
+payload:           (61B) 01-04-6e-fa-00-00-00-00-60-00-00-00-00-0d-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-01-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-b1-4d-00-0d-ff-47-50-7a-ac-61-34
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 01 01 04 6e fa 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 0d 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  ...@............
+000030  00 00 00 01 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 b1 4d 00 0d ff 47 50 7a ac 61  .......M...GPz.a
+000050  34                                               4
+
+12:57:07 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:1 dropped (DESTINATIONUNREACHABLE not supported)
+12:57:07 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-01
+source route:
+ - 14-15-92-cc-00-00-00-01
+payload:           (61B) 01-04-6e-fa-00-00-00-00-60-00-00-00-00-0d-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-01-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-b1-4d-00-0d-0b-a1-83-38-b5-49-ec
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 01 01 04 6e fa 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 0d 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  ...@............
+000030  00 00 00 01 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 b1 4d 00 0d 0b a1 83 38 b5 49  .......M.....8.I
+000050  ec                                               .
+
+12:57:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+12:57:11 ERROR 3 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+12:57:11 INFO 3 [SIXTOP] sending a 6top request
+12:57:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+12:57:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+12:57:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
