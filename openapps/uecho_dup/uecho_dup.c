@@ -12,7 +12,7 @@
 
 //=========================== variables =======================================
 
-sock_udp_t uecho_sock;
+sock_udp_t uecho_dup_sock;
 
 //=========================== prototypes ======================================
 
@@ -22,20 +22,20 @@ void uecho_dup_handler(sock_udp_t *sock, sock_async_flags_t type, void *arg);
 
 void uecho_dup_init(void) {
     // clear local variables
-    memset(&uecho_sock, 0, sizeof(sock_udp_t));
+    memset(&uecho_dup_sock, 0, sizeof(sock_udp_t));
 
     sock_udp_ep_t local;
 
     local.port = WKP_UDP_ECHO_DUP;
 
-    if (sock_udp_create(&uecho_sock, &local, NULL, 0) < 0) {
+    if (sock_udp_create(&uecho_dup_sock, &local, NULL, 0) < 0) {
         openserial_printf("Could not create socket\n");
         return;
     }
 
     openserial_printf("Created a UDP socket\n");
 
-    sock_udp_set_cb(&uecho_sock, uecho_dup_handler, NULL);
+    sock_udp_set_cb(&uecho_dup_sock, uecho_dup_handler, NULL);
 }
 
 void uecho_dup_handler(sock_udp_t *sock, sock_async_flags_t type, void *arg) {

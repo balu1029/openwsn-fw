@@ -1,0 +1,673 @@
+08:28:51 VERBOSE loading logging configuration: config/logging.conf
+08:28:51 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+08:28:51 INFO opening tun interface
+08:28:51 INFO created following virtual interfaces
+08:28:51 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmp5oJJCg'
+08:28:51 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmp5oJJCg/linux/oos_openwsn-amd64.so'
+08:28:51 INFO thread initialized
+08:28:51 INFO thread initialized
+08:28:51 INFO thread initialized
+08:28:51 INFO thread initialized
+08:28:51 INFO thread initialized
+08:28:51 INFO extracting firmware definitions.
+08:28:51 VERBOSE extracting firmware component names
+08:28:51 VERBOSE extracting firmware log descriptions.
+08:28:51 VERBOSE extracting 6top return codes.
+08:28:51 VERBOSE extracting 6top states.
+08:28:52 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:28:53 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:28:54 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:28:55 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:28:56 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:28:56 CRITICAL [Errno 98] Address already in use
+08:28:56 VERBOSE cleaning up files: /tmp/tmp5oJJCg
+08:48:17 VERBOSE loading logging configuration: config/logging.conf
+08:48:17 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = ../../WSN_Firmwares/WSN_FW_Socket_Proxy/openwsn-fw
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+08:48:17 INFO opening tun interface
+08:48:17 INFO created following virtual interfaces
+08:48:17 CRITICAL path '../../WSN_Firmwares/WSN_FW_Socket_Proxy/openwsn-fw/bsp/boards/python' does not exist
+08:48:17 CRITICAL failed to import simulation files! Exiting now!
+08:48:37 VERBOSE loading logging configuration: config/logging.conf
+08:48:37 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+08:48:37 INFO opening tun interface
+08:48:37 INFO created following virtual interfaces
+08:48:37 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpAQrRO1'
+08:48:37 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpAQrRO1/linux/oos_openwsn-amd64.so'
+08:48:37 INFO thread initialized
+08:48:37 INFO thread initialized
+08:48:37 INFO thread initialized
+08:48:37 INFO thread initialized
+08:48:37 INFO thread initialized
+08:48:37 INFO extracting firmware definitions.
+08:48:37 VERBOSE extracting firmware component names
+08:48:37 VERBOSE extracting firmware log descriptions.
+08:48:37 VERBOSE extracting 6top return codes.
+08:48:37 VERBOSE extracting 6top states.
+08:48:38 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:48:39 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:48:40 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:48:41 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:48:42 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:48:42 INFO Setting DAG root...
+08:48:42 INFO thread starting
+08:48:42 DEBUG switchOn
+08:48:42 SUCCESS 5 [OPENWSN] booted
+08:48:42 INFO thread starting
+08:48:42 DEBUG switchOn
+08:48:42 SUCCESS 4 [OPENWSN] booted
+08:48:42 INFO thread starting
+08:48:42 DEBUG switchOn
+08:48:42 SUCCESS 3 [OPENWSN] booted
+08:48:42 INFO thread starting
+08:48:42 DEBUG switchOn
+08:48:42 SUCCESS 2 [OPENWSN] booted
+08:48:42 INFO thread starting
+08:48:42 DEBUG switchOn
+08:48:42 SUCCESS 1 [OPENWSN] booted
+08:48:44 SUCCESS Setting mote 0002 as root
+08:48:44 INFO starting RPC server
+08:48:44 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+08:48:44 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+08:50:23 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+08:50:44 ERROR 4 [IEEE802154E] got desynchronized at slotOffset 33
+08:53:30 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+08:53:30 VERBOSE cleaning up files: /tmp/tmpAQrRO1
+08:53:38 VERBOSE loading logging configuration: config/logging.conf
+08:53:38 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+08:53:38 INFO opening tun interface
+08:53:38 INFO created following virtual interfaces
+08:53:38 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpNoebZ_'
+08:53:38 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpNoebZ_/linux/oos_openwsn-amd64.so'
+08:53:38 INFO thread initialized
+08:53:38 INFO thread initialized
+08:53:38 INFO thread initialized
+08:53:38 INFO thread initialized
+08:53:38 INFO thread initialized
+08:53:38 INFO extracting firmware definitions.
+08:53:38 VERBOSE extracting firmware component names
+08:53:38 VERBOSE extracting firmware log descriptions.
+08:53:38 VERBOSE extracting 6top return codes.
+08:53:38 VERBOSE extracting 6top states.
+08:53:39 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:53:40 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:53:41 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:53:42 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:53:43 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+08:53:43 INFO Setting DAG root...
+08:53:43 INFO thread starting
+08:53:43 DEBUG switchOn
+08:53:43 SUCCESS 5 [OPENWSN] booted
+08:53:43 INFO thread starting
+08:53:43 DEBUG switchOn
+08:53:43 SUCCESS 4 [OPENWSN] booted
+08:53:43 INFO thread starting
+08:53:43 DEBUG switchOn
+08:53:43 SUCCESS 3 [OPENWSN] booted
+08:53:43 INFO thread starting
+08:53:43 DEBUG switchOn
+08:53:43 SUCCESS 2 [OPENWSN] booted
+08:53:43 INFO thread starting
+08:53:43 DEBUG switchOn
+08:53:43 SUCCESS 1 [OPENWSN] booted
+08:53:45 SUCCESS Setting mote 0002 as root
+08:53:45 INFO starting RPC server
+08:53:45 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+08:53:45 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+08:54:46 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+08:55:32 INFO 4 [SIXTOP] sending a 6top request
+08:55:51 ERROR 4 [IEEE802154E] got desynchronized at slotOffset 33
+08:57:10 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+08:57:12 INFO 3 [SIXTOP] sending a 6top request
+08:57:13 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+08:57:38 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+08:59:20 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+08:59:21 INFO 4 [SIXTOP] sending a 6top request
+08:59:41 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+08:59:41 INFO 4 [SIXTOP] sending a 6top request
+08:59:57 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+08:59:57 INFO 4 [SIXTOP] sending a 6top request
+09:00:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+09:02:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+09:02:38 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDRESPONSE
+09:02:38 INFO 4 [SIXTOP] sending a 6top request
+09:02:50 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:02:50 INFO 4 [SIXTOP] sending a 6top request
+09:03:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+09:03:04 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:03:04 INFO 4 [SIXTOP] sending a 6top request
+09:03:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+09:03:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+09:04:00 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:04:00 INFO 4 [SIXTOP] sending a 6top request
+09:04:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+09:04:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+09:04:25 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:04:25 INFO 4 [SIXTOP] sending a 6top request
+09:04:48 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+09:04:54 INFO 1 [SIXTOP] sending a 6top request
+09:04:56 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+09:04:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:05:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:05:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:05:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:06:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:06:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:06:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:06:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:06:19 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:06:19 INFO 4 [SIXTOP] sending a 6top request
+09:06:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:07:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:07:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:07:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:07:58 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:07:58 INFO 4 [SIXTOP] sending a 6top request
+09:08:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:08:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:08:13 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:08:13 INFO 4 [SIXTOP] sending a 6top request
+09:08:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:08:38 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:08:39 INFO 4 [SIXTOP] sending a 6top request
+09:08:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:09:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:09:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:09:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:10:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:10:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:10:22 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:10:22 INFO 4 [SIXTOP] sending a 6top request
+09:10:39 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:10:39 INFO 4 [SIXTOP] sending a 6top request
+09:10:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:10:50 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:10:50 INFO 4 [SIXTOP] sending a 6top request
+09:11:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:12:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:12:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:13:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:13:23 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:13:23 INFO 4 [SIXTOP] sending a 6top request
+09:13:26 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:13:26 INFO 4 [SIXTOP] sending a 6top request
+09:13:37 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:13:37 INFO 4 [SIXTOP] sending a 6top request
+09:13:42 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:13:42 INFO 4 [SIXTOP] sending a 6top request
+09:13:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:13:53 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:13:53 INFO 4 [SIXTOP] sending a 6top request
+09:13:58 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:13:58 INFO 4 [SIXTOP] sending a 6top request
+09:14:02 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 4]
+09:14:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:14:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:14:15 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARREQUEST_SENDDONE
+09:14:15 INFO 4 [SIXTOP] sending a 6top request
+09:14:25 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:14:25 INFO 4 [SIXTOP] sending a 6top request
+09:20:47 VERBOSE loading logging configuration: config/logging.conf
+09:20:47 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+09:20:47 INFO opening tun interface
+09:20:47 INFO created following virtual interfaces
+09:20:47 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpayDrZP'
+09:20:47 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpayDrZP/linux/oos_openwsn-amd64.so'
+09:20:47 INFO thread initialized
+09:20:47 INFO thread initialized
+09:20:47 INFO thread initialized
+09:20:47 INFO thread initialized
+09:20:47 INFO thread initialized
+09:20:47 INFO extracting firmware definitions.
+09:20:47 VERBOSE extracting firmware component names
+09:20:47 VERBOSE extracting firmware log descriptions.
+09:20:47 VERBOSE extracting 6top return codes.
+09:20:47 VERBOSE extracting 6top states.
+09:20:49 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:20:50 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:20:51 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:20:52 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:20:53 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:20:53 CRITICAL [Errno 98] Address already in use
+09:20:53 VERBOSE cleaning up files: /tmp/tmpayDrZP
+09:22:00 VERBOSE loading logging configuration: config/logging.conf
+09:22:00 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+09:22:00 INFO opening tun interface
+09:22:00 INFO created following virtual interfaces
+09:22:00 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmp9WtEaG'
+09:22:00 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmp9WtEaG/linux/oos_openwsn-amd64.so'
+09:22:00 INFO thread initialized
+09:22:00 INFO thread initialized
+09:22:00 INFO thread initialized
+09:22:00 INFO thread initialized
+09:22:00 INFO thread initialized
+09:22:00 INFO extracting firmware definitions.
+09:22:00 VERBOSE extracting firmware component names
+09:22:00 VERBOSE extracting firmware log descriptions.
+09:22:00 VERBOSE extracting 6top return codes.
+09:22:00 VERBOSE extracting 6top states.
+09:22:01 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:22:02 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:22:03 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:22:04 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:22:05 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+09:22:05 INFO Setting DAG root...
+09:22:05 INFO thread starting
+09:22:05 DEBUG switchOn
+09:22:05 SUCCESS 5 [OPENWSN] booted
+09:22:05 INFO thread starting
+09:22:05 DEBUG switchOn
+09:22:05 SUCCESS 4 [OPENWSN] booted
+09:22:05 INFO thread starting
+09:22:05 DEBUG switchOn
+09:22:05 SUCCESS 3 [OPENWSN] booted
+09:22:05 INFO thread starting
+09:22:05 DEBUG switchOn
+09:22:05 SUCCESS 2 [OPENWSN] booted
+09:22:05 INFO thread starting
+09:22:05 DEBUG switchOn
+09:22:05 SUCCESS 1 [OPENWSN] booted
+09:22:07 SUCCESS Setting mote 0002 as root
+09:22:07 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+09:22:07 INFO starting RPC server
+09:22:08 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+09:26:17 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+09:26:18 INFO 3 [SIXTOP] sending a 6top request
+09:26:18 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+09:30:21 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+09:31:14 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+09:31:23 INFO 4 [SIXTOP] sending a 6top request
+09:31:35 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+09:31:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:31:42 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+09:32:04 INFO 5 [SIXTOP] sending a 6top request
+09:32:05 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+09:33:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:33:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:33:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:33:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:33:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:33:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:33:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:33:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:33:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:34:21 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:34:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:34:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:34:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:35:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:35:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:35:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:36:09 ERROR 4 [IEEE802154E] got desynchronized at slotOffset 27
+09:36:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:36:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:36:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:36:55 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+09:37:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:37:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:37:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:37:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:37:21 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:37:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:37:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:38:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:39:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:39:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:39:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:40:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:40:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:40:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:41:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:41:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:41:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:41:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:41:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:41:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:41:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:42:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:42:57 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+09:42:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:42:58 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+09:42:58 INFO 1 [SIXTOP] sending a 6top request
+09:43:09 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+09:43:11 INFO 1 [SIXTOP] sending a 6top request
+09:43:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
