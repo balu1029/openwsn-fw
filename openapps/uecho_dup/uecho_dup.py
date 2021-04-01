@@ -4,14 +4,22 @@ from random import randint
 
 import colorama as c
 
+import concurrent.futures
+
 c.init()
 
 
 def udp_send_and_receive(hisPort, hisAddress, myPort, myAddress, succ, fail, delays):
 
+    #colors
+    if(hisPort == 7):
+        color = c.Back.GREEN
+    else:
+        color = c.Back.BLUE
+
     #log
     output = []
-    output += [c.Back.GREEN + c.Fore.BLACK + 'ECHO REQUEST {0}'.format(i) + c.Style.RESET_ALL]
+    output += [color + c.Fore.BLACK + 'ECHO REQUEST {0} at Port {1}'.format(i,hisPort) + c.Style.RESET_ALL]
     output += ['  - Address    [{0}]:{1} --> [{2}]:{3}'.format(myAddress, myPort, hisAddress, hisPort)]
     output += ['  - Payload    {0} ({1} bytes)'.format(pretty_print(request), len(request))]
     output = '\n'.join(output)
@@ -46,7 +54,7 @@ def udp_send_and_receive(hisPort, hisAddress, myPort, myAddress, succ, fail, del
 
             # log
             output = ['\n']
-            output += [c.Back.GREEN + c.Fore.BLACK + 'ECHO RESPONSE {0}'.format(i) + c.Style.RESET_ALL]
+            output += [color + c.Fore.BLACK + 'ECHO RESPONSE {0} at Port {1}'.format(i, hisPort) + c.Style.RESET_ALL]
             output += ['  - Address    [{0}]:{1}->[{2}]:{3}'.format(dist_addr[0], dist_addr[1], myAddress, myPort)]
             output += ['  - Payload    {0} ({1} bytes)'.format(pretty_print(reply), len(reply))]
             output += ['  - Delay      {0:.03f}s'.format(delay)]
@@ -71,7 +79,7 @@ def udp_send_and_receive(hisPort, hisAddress, myPort, myAddress, succ, fail, del
 
 def print_statistics(succ, fail, delays, hisPort):
     output = []
-    output += ['\nStatistics Port :' + str(hisPort)]
+    output += ['\nStatistics Port: ' + str(hisPort)]
     output += ['  - success            {0}'.format(succ)]
     output += ['  - fail               {0}'.format(fail)]
 
@@ -100,7 +108,8 @@ def pretty_print(lst):
 
 
 print "\n  UDP Echo Application to Port 7 and 8"
-print "------------------------\n"
+print "  ------------------------------------\n"
+print "sends requests to both ports concurrently\n\n"
 
 num_tries = raw_input("> Number of echoes [5]? ")
 pld_size = raw_input("> Payload size [50]? ")
@@ -134,7 +143,8 @@ else:
 succ1 = 0
 fail1 = 0
 myAddress = ''  # means 'all'
-myPort = randint(1024, 65535)
+myPort1 = randint(1024, 65535)
+myPort2 = randint(1024, 65535)
 delays1 = []
 
 succ2 = 0
@@ -149,10 +159,18 @@ for i in range(num_tries):
     # generate a new random payload for each echo request
     request = "".join([chr(randint(0, 255)) for j in range(pld_size)])
 
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        future1 = executor.submit(udp_send_and_receive, hisPort1, hisAddress, myPort1, myAddress, succ1, fail1, delays1)
+        future2 = executor.submit(udp_send_and_receive, hisPort2, hisAddress, myPort2, myAddress, succ2, fail2, delays2)
+        succ1,fail1,delays1 = future1.result()
+        succ2,fail2,delays2 = future2.result()
+        #succ1,fail1,delays1 = udp_send_and_receive(hisPort1, hisAddress, myPort, myAddress, succ1, fail1, delays1)
+        #succ2,fail2,delays2 = udp_send_and_receive(hisPort2, hisAddress, myPort, myAddress, succ2, fail2, delays2)
+        
 
-    succ1,fail1,delays1 = udp_send_and_receive(hisPort1, hisAddress, myPort, myAddress, succ1, fail1, delays1)
-    succ2,fail2,delays2 = udp_send_and_receive(hisPort1, hisAddress, myPort, myAddress, succ2, fail2, delays2)
-    print_statistics(succ1, fail1, delays1, hisPort1)
-    print_statistics(succ2, fail2, delays2, hisPort2)
+print_statistics(succ1, fail1, delays1, hisPort1)
+print_statistics(succ2, fail2, delays2, hisPort2)
+
+    
 
 raw_input("\nPress return to close this window...")
