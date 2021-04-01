@@ -13335,3 +13335,2886 @@ payload:           (76B) 01-04-6e-e7-00-00-00-00-60-00-00-00-00-1c-11-40-bb-bb-0
 	   bbbb:0:0:0:1415:92cc:0:3
 	- children:
 	   bbbb:0:0:0:1415:92cc:0:1
+09:32:38 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1776 into an IPv6 packet of size 89
+09:32:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:32:39 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1570 into an IPv6 packet of size 89
+09:32:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:32:42 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1777 into an IPv6 packet of size 89
+09:32:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:32:44 SUCCESS [GATEWAY] Reassembled 2 frags with tag 988 into an IPv6 packet of size 90
+09:32:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:32:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1571 into an IPv6 packet of size 89
+09:32:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:33:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:33:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:33:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:33:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:33:15 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1572 into an IPv6 packet of size 89
+09:33:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:33:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:33:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:33:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:33:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:33:43 SUCCESS [GATEWAY] Reassembled 2 frags with tag 989 into an IPv6 packet of size 90
+09:33:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:33:44 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1573 into an IPv6 packet of size 89
+09:33:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:33:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 990 into an IPv6 packet of size 90
+09:33:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:34:00 SUCCESS [GATEWAY] Reassembled 2 frags with tag 991 into an IPv6 packet of size 90
+09:34:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:34:02 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1574 into an IPv6 packet of size 89
+09:34:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:34:04 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1778 into an IPv6 packet of size 89
+09:34:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:34:19 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1779 into an IPv6 packet of size 89
+09:34:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:34:20 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1780 into an IPv6 packet of size 89
+09:34:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:34:22 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1575 into an IPv6 packet of size 89
+09:34:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:34:26 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1781 into an IPv6 packet of size 89
+09:34:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:34:29 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1782 into an IPv6 packet of size 89
+09:34:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:34:31 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1783 into an IPv6 packet of size 89
+09:34:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:34:34 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1576 into an IPv6 packet of size 89
+09:34:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:34:41 SUCCESS [GATEWAY] Reassembled 2 frags with tag 992 into an IPv6 packet of size 90
+09:34:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:34:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:34:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:34:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:34:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:34:48 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1784 into an IPv6 packet of size 89
+09:34:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:34:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:19 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1577 into an IPv6 packet of size 89
+09:35:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:35:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:35 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1578 into an IPv6 packet of size 89
+09:35:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:35:39 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1785 into an IPv6 packet of size 89
+09:35:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:35:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:35:45 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1786 into an IPv6 packet of size 89
+09:35:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:35:48 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1787 into an IPv6 packet of size 89
+09:35:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:35:49 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1579 into an IPv6 packet of size 89
+09:35:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:36:01 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1788 into an IPv6 packet of size 89
+09:36:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:36:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:36:08 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1789 into an IPv6 packet of size 89
+09:36:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:36:10 SUCCESS [GATEWAY] Reassembled 2 frags with tag 993 into an IPv6 packet of size 90
+09:36:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:36:14 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1790 into an IPv6 packet of size 89
+09:36:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:36:18 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1580 into an IPv6 packet of size 89
+09:36:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:36:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:36:21 SUCCESS [GATEWAY] Reassembled 2 frags with tag 994 into an IPv6 packet of size 90
+09:36:21 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:36:36 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1581 into an IPv6 packet of size 89
+09:36:36 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:36:39 SUCCESS [GATEWAY] Reassembled 2 frags with tag 995 into an IPv6 packet of size 90
+09:36:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:36:41 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1582 into an IPv6 packet of size 89
+09:36:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:36:45 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1791 into an IPv6 packet of size 89
+09:36:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:36:47 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1792 into an IPv6 packet of size 89
+09:36:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:37:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:37:06 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1583 into an IPv6 packet of size 89
+09:37:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:37:13 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1584 into an IPv6 packet of size 89
+09:37:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:37:29 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1585 into an IPv6 packet of size 89
+09:37:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:37:54 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1586 into an IPv6 packet of size 89
+09:37:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:37:59 SUCCESS [GATEWAY] Reassembled 2 frags with tag 996 into an IPv6 packet of size 90
+09:37:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:38:01 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1587 into an IPv6 packet of size 89
+09:38:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:38:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:38:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:38:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:38:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:38:31 SUCCESS [GATEWAY] Reassembled 2 frags with tag 998 into an IPv6 packet of size 90
+09:38:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:38:38 SUCCESS [GATEWAY] Reassembled 2 frags with tag 999 into an IPv6 packet of size 90
+09:38:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:38:44 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1793 into an IPv6 packet of size 89
+09:38:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:39:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:39:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:39:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:40:03 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1588 into an IPv6 packet of size 89
+09:40:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:40:06 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1794 into an IPv6 packet of size 89
+09:40:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:40:26 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1795 into an IPv6 packet of size 89
+09:40:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:40:27 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1589 into an IPv6 packet of size 89
+09:40:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:40:28 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1000 into an IPv6 packet of size 90
+09:40:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:40:30 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1001 into an IPv6 packet of size 90
+09:40:30 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:40:47 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1002 into an IPv6 packet of size 90
+09:40:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:40:48 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1590 into an IPv6 packet of size 89
+09:40:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:40:55 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1796 into an IPv6 packet of size 89
+09:40:55 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:40:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:40:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:11 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1797 into an IPv6 packet of size 89
+09:41:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:41:12 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1004 into an IPv6 packet of size 90
+09:41:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:41:15 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1798 into an IPv6 packet of size 89
+09:41:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:41:19 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1799 into an IPv6 packet of size 89
+09:41:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:41:20 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1591 into an IPv6 packet of size 89
+09:41:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:41:24 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1005 into an IPv6 packet of size 90
+09:41:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:41:25 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1592 into an IPv6 packet of size 89
+09:41:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:41:30 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:41:35 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1006 into an IPv6 packet of size 90
+09:41:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:41:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1007 into an IPv6 packet of size 90
+09:41:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:41:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:02 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1593 into an IPv6 packet of size 89
+09:42:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:42:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:12 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1800 into an IPv6 packet of size 89
+09:42:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:42:14 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1594 into an IPv6 packet of size 89
+09:42:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:42:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:30 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1010 into an IPv6 packet of size 90
+09:42:30 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:42:31 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1595 into an IPv6 packet of size 89
+09:42:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:42:36 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1801 into an IPv6 packet of size 89
+09:42:36 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:42:41 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1802 into an IPv6 packet of size 89
+09:42:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:42:42 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1596 into an IPv6 packet of size 89
+09:42:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:42:44 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1597 into an IPv6 packet of size 89
+09:42:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:42:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1012 into an IPv6 packet of size 90
+09:42:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:42:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:42:55 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:43:00 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1014 into an IPv6 packet of size 90
+09:43:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:43:09 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1803 into an IPv6 packet of size 89
+09:43:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:43:11 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1598 into an IPv6 packet of size 89
+09:43:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:43:12 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1015 into an IPv6 packet of size 90
+09:43:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:43:25 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1804 into an IPv6 packet of size 89
+09:43:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:43:28 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1016 into an IPv6 packet of size 90
+09:43:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:43:31 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1017 into an IPv6 packet of size 90
+09:43:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:43:32 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1805 into an IPv6 packet of size 89
+09:43:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:43:34 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1806 into an IPv6 packet of size 89
+09:43:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:43:37 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1599 into an IPv6 packet of size 89
+09:43:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:43:52 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1600 into an IPv6 packet of size 89
+09:43:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:44:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:44:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:44:06 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1807 into an IPv6 packet of size 89
+09:44:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:44:09 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1601 into an IPv6 packet of size 89
+09:44:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:44:15 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1602 into an IPv6 packet of size 89
+09:44:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:44:38 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1808 into an IPv6 packet of size 89
+09:44:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:44:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:44:44 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1603 into an IPv6 packet of size 89
+09:44:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:44:51 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1018 into an IPv6 packet of size 90
+09:44:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:44:55 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1809 into an IPv6 packet of size 89
+09:44:55 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:45:04 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1019 into an IPv6 packet of size 90
+09:45:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:45:05 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1020 into an IPv6 packet of size 90
+09:45:05 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:45:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:45:10 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1604 into an IPv6 packet of size 89
+09:45:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:45:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:45:11 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1021 into an IPv6 packet of size 90
+09:45:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:45:12 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1810 into an IPv6 packet of size 89
+09:45:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:45:15 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1605 into an IPv6 packet of size 89
+09:45:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:45:15 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1022 into an IPv6 packet of size 90
+09:45:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:45:17 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1023 into an IPv6 packet of size 90
+09:45:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:45:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:45:29 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1606 into an IPv6 packet of size 89
+09:45:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:45:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:45:33 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1024 into an IPv6 packet of size 90
+09:45:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:45:34 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1811 into an IPv6 packet of size 89
+09:45:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:45:40 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1812 into an IPv6 packet of size 89
+09:45:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:45:41 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1813 into an IPv6 packet of size 89
+09:45:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:45:42 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1607 into an IPv6 packet of size 89
+09:45:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:46:04 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1608 into an IPv6 packet of size 89
+09:46:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:46:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:46:23 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1025 into an IPv6 packet of size 90
+09:46:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:46:28 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1026 into an IPv6 packet of size 90
+09:46:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:46:34 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1609 into an IPv6 packet of size 89
+09:46:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:46:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:46:45 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1814 into an IPv6 packet of size 89
+09:46:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:46:45 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1028 into an IPv6 packet of size 90
+09:46:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:46:52 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1029 into an IPv6 packet of size 90
+09:46:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:46:54 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1815 into an IPv6 packet of size 89
+09:46:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:46:57 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1030 into an IPv6 packet of size 90
+09:46:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:47:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:47:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:47:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:47:22 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1031 into an IPv6 packet of size 90
+09:47:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:47:24 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1032 into an IPv6 packet of size 90
+09:47:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:47:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:47:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:47:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:47:38 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1816 into an IPv6 packet of size 89
+09:47:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:47:44 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1817 into an IPv6 packet of size 89
+09:47:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:47:47 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1610 into an IPv6 packet of size 89
+09:47:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:47:57 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1818 into an IPv6 packet of size 89
+09:47:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:48:01 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1611 into an IPv6 packet of size 89
+09:48:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:48:03 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1819 into an IPv6 packet of size 89
+09:48:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:48:07 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1612 into an IPv6 packet of size 89
+09:48:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:48:15 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1613 into an IPv6 packet of size 89
+09:48:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:48:17 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1820 into an IPv6 packet of size 89
+09:48:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:48:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:48:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:48:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:48:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:48:36 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:48:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:48:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:48:54 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1821 into an IPv6 packet of size 89
+09:48:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:48:55 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1822 into an IPv6 packet of size 89
+09:48:55 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:48:57 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1823 into an IPv6 packet of size 89
+09:48:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:48:57 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1614 into an IPv6 packet of size 89
+09:48:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:48:59 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1824 into an IPv6 packet of size 89
+09:48:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:48:59 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1825 into an IPv6 packet of size 89
+09:48:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:49:02 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1615 into an IPv6 packet of size 89
+09:49:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:49:11 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1033 into an IPv6 packet of size 90
+09:49:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:49:13 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1616 into an IPv6 packet of size 89
+09:49:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:49:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:49:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:49:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:49:21 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:49:24 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1826 into an IPv6 packet of size 89
+09:49:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:49:28 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1617 into an IPv6 packet of size 89
+09:49:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:49:32 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1618 into an IPv6 packet of size 89
+09:49:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:50:10 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1619 into an IPv6 packet of size 89
+09:50:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:50:18 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1620 into an IPv6 packet of size 89
+09:50:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:50:21 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1827 into an IPv6 packet of size 89
+09:50:21 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:50:25 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1034 into an IPv6 packet of size 90
+09:50:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:50:34 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1828 into an IPv6 packet of size 89
+09:50:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:50:38 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1621 into an IPv6 packet of size 89
+09:50:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:50:44 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1035 into an IPv6 packet of size 90
+09:50:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:50:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:50:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:50:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1829 into an IPv6 packet of size 89
+09:50:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:50:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1622 into an IPv6 packet of size 89
+09:50:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:50:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:50:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:51:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:51:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:51:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:51:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:51:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:51:27 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1037 into an IPv6 packet of size 90
+09:51:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:51:30 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1038 into an IPv6 packet of size 90
+09:51:30 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:51:31 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1623 into an IPv6 packet of size 89
+09:51:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:51:34 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1039 into an IPv6 packet of size 90
+09:51:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:51:42 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1830 into an IPv6 packet of size 89
+09:51:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:51:43 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1831 into an IPv6 packet of size 89
+09:51:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:52:01 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1832 into an IPv6 packet of size 89
+09:52:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:52:05 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1624 into an IPv6 packet of size 89
+09:52:05 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:52:06 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1833 into an IPv6 packet of size 89
+09:52:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:52:21 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1040 into an IPv6 packet of size 90
+09:52:21 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:52:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:45 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1834 into an IPv6 packet of size 89
+09:52:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+09:52:46 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1041 into an IPv6 packet of size 90
+09:52:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+09:52:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:56 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1625 into an IPv6 packet of size 89
+09:52:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:52:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:58 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:58 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:52:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:53:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:53:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:53:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:53:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+09:53:18 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1626 into an IPv6 packet of size 89
+09:53:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+09:53:22 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+09:53:22 VERBOSE cleaning up files: /tmp/tmposHZbF
+10:35:11 VERBOSE loading logging configuration: config/logging.conf
+10:35:11 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+10:35:11 INFO opening tun interface
+10:35:11 INFO created following virtual interfaces
+10:35:11 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpRmUZKk'
+10:35:11 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpRmUZKk/linux/oos_openwsn-amd64.so'
+10:35:11 INFO thread initialized
+10:35:11 INFO thread initialized
+10:35:11 INFO thread initialized
+10:35:11 INFO thread initialized
+10:35:11 INFO thread initialized
+10:35:11 INFO extracting firmware definitions.
+10:35:11 VERBOSE extracting firmware component names
+10:35:11 VERBOSE extracting firmware log descriptions.
+10:35:11 VERBOSE extracting 6top return codes.
+10:35:11 VERBOSE extracting 6top states.
+10:35:13 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:35:14 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:35:15 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:35:16 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:35:17 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:35:17 INFO Setting DAG root...
+10:35:17 INFO thread starting
+10:35:17 DEBUG switchOn
+10:35:17 SUCCESS 5 [OPENWSN] booted
+10:35:17 INFO thread starting
+10:35:17 DEBUG switchOn
+10:35:17 SUCCESS 4 [OPENWSN] booted
+10:35:17 INFO thread starting
+10:35:17 DEBUG switchOn
+10:35:17 SUCCESS 3 [OPENWSN] booted
+10:35:17 INFO thread starting
+10:35:17 DEBUG switchOn
+10:35:17 SUCCESS 2 [OPENWSN] booted
+10:35:17 INFO thread starting
+10:35:17 DEBUG switchOn
+10:35:17 SUCCESS 1 [OPENWSN] booted
+10:35:18 SUCCESS Setting mote 0002 as root
+10:35:18 INFO starting RPC server
+10:35:18 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+10:35:19 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+10:36:03 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+10:36:05 INFO 3 [SIXTOP] sending a 6top request
+10:36:06 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:36:12 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+10:36:15 INFO 4 [SIXTOP] sending a 6top request
+10:36:15 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:36:16 INFO 4 [SIXTOP] sending a 6top request
+10:36:16 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDRESPONSE
+10:36:16 INFO 4 [SIXTOP] sending a 6top request
+10:36:16 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARRESPONSE
+10:36:16 INFO 4 [SIXTOP] sending a 6top request
+10:36:17 ERROR 4 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARRESPONSE
+10:36:17 INFO 4 [SIXTOP] sending a 6top request
+10:36:20 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARRESPONSE
+10:36:20 INFO 4 [SIXTOP] sending a 6top request
+10:36:20 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:36:25 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1422 into an IPv6 packet of size 89
+10:36:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:36:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:36:36 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+10:36:40 INFO 1 [SIXTOP] sending a 6top request
+10:36:41 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:36:47 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1423 into an IPv6 packet of size 89
+10:36:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:36:51 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1424 into an IPv6 packet of size 89
+10:36:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:36:51 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1425 into an IPv6 packet of size 89
+10:36:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:36:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:36:54 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1426 into an IPv6 packet of size 89
+10:36:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:36:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:37:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:37:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:37:13 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:37:23 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 1
+10:37:23 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 2
+10:37:23 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 1)
+10:37:24 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 2)
+10:37:24 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 3
+10:37:24 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 4
+10:37:25 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 3)
+10:37:25 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 4)
+10:37:25 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 5
+10:37:26 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 6
+10:37:26 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 5)
+10:37:27 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 6)
+10:37:27 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 7
+10:37:27 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 8
+10:37:28 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 7)
+10:37:28 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 8)
+10:37:28 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 9
+10:37:28 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 128) into 2 fragments with tag 10
+10:37:29 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 9)
+10:37:30 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 128, tag: 10)
+10:37:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:37:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:37:42 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 11
+10:37:42 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 12
+10:37:43 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 11)
+10:37:43 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 12)
+10:37:44 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 13
+10:37:44 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 14
+10:37:44 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 13)
+10:37:45 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 14)
+10:37:45 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 15
+10:37:45 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 16
+10:37:46 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 15)
+10:37:46 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1427 into an IPv6 packet of size 89
+10:37:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:37:46 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 16)
+10:37:47 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 17
+10:37:47 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 18
+10:37:47 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 17)
+10:37:48 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 18)
+10:37:48 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 19
+10:37:48 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 20
+10:37:49 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 19)
+10:37:49 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 98, tag: 20)
+10:37:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:37:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:37:58 INFO 1 [SIXTOP] sending a 6top request
+10:38:06 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARRESPONSE
+10:38:07 INFO 1 [SIXTOP] sending a 6top request
+10:38:10 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:38:10 INFO 1 [SIXTOP] sending a 6top request
+10:38:13 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:38:13 INFO 1 [SIXTOP] sending a 6top request
+10:38:17 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:38:17 INFO 1 [SIXTOP] sending a 6top request
+10:38:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:38:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+10:38:50 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+10:38:55 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1428 into an IPv6 packet of size 89
+10:38:55 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:38:55 INFO 5 [SIXTOP] sending a 6top request
+10:38:55 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:39:00 ERROR 1 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:39:00 INFO 1 [SIXTOP] sending a 6top request
+10:39:03 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARRESPONSE
+10:39:04 INFO 1 [SIXTOP] sending a 6top request
+10:39:04 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:39:04 INFO 1 [SIXTOP] sending a 6top request
+10:39:05 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:39:05 INFO 1 [SIXTOP] sending a 6top request
+10:39:06 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1429 into an IPv6 packet of size 89
+10:39:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:39:09 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1517 into an IPv6 packet of size 89
+10:39:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:39:16 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1430 into an IPv6 packet of size 89
+10:39:16 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:39:35 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1688 into an IPv6 packet of size 89
+10:39:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:39:45 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1431 into an IPv6 packet of size 89
+10:39:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:39:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1689 into an IPv6 packet of size 89
+10:39:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:39:54 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1432 into an IPv6 packet of size 89
+10:39:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:39:59 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:40:01 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1433 into an IPv6 packet of size 89
+10:40:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:40:03 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:40:03 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:40:04 ERROR 3 [FRAG] reassembly or vrb timer expired for fragments with tag 1517
+10:40:05 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1434 into an IPv6 packet of size 89
+10:40:05 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:40:18 INFO 1 [SIXTOP] sending a 6top request
+10:40:24 INFO 1 [SIXTOP] sending a 6top request
+10:40:24 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:40:42 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1435 into an IPv6 packet of size 89
+10:40:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:40:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:40:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:40:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:41:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:41:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:41:26 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1522 into an IPv6 packet of size 89
+10:41:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:41:28 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1436 into an IPv6 packet of size 89
+10:41:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:41:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:41:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:41:37 ERROR 4 [FRAG] reassembly or vrb timer expired for fragments with tag 894
+10:41:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:41:50 ERROR 4 [FRAG] reassembly or vrb timer expired for fragments with tag 895
+10:41:50 ERROR 3 [FRAG] reassembly or vrb timer expired for fragments with tag 895
+10:41:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:41:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:41:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:42:03 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:03 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:08 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:08 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:42:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:42:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:42:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:4
+	- children:
+10:42:13 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:13 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:15 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1437 into an IPv6 packet of size 89
+10:42:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:42:18 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:18 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:19 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1438 into an IPv6 packet of size 89
+10:42:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:42:20 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1439 into an IPv6 packet of size 89
+10:42:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+10:42:23 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:42:23 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+10:48:17 VERBOSE loading logging configuration: config/logging.conf
+10:48:17 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+10:48:17 INFO opening tun interface
+10:48:17 INFO created following virtual interfaces
+10:48:17 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpzCXDR1'
+10:48:17 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpzCXDR1/linux/oos_openwsn-amd64.so'
+10:48:17 INFO thread initialized
+10:48:17 INFO thread initialized
+10:48:17 INFO thread initialized
+10:48:17 INFO thread initialized
+10:48:17 INFO thread initialized
+10:48:17 INFO extracting firmware definitions.
+10:48:17 VERBOSE extracting firmware component names
+10:48:17 VERBOSE extracting firmware log descriptions.
+10:48:17 VERBOSE extracting 6top return codes.
+10:48:17 VERBOSE extracting 6top states.
+10:48:18 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:48:19 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:48:20 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:48:22 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:48:23 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:48:23 INFO Setting DAG root...
+10:48:23 INFO thread starting
+10:48:23 DEBUG switchOn
+10:48:23 SUCCESS 5 [OPENWSN] booted
+10:48:23 INFO thread starting
+10:48:23 DEBUG switchOn
+10:48:23 SUCCESS 4 [OPENWSN] booted
+10:48:23 INFO thread starting
+10:48:23 DEBUG switchOn
+10:48:23 SUCCESS 3 [OPENWSN] booted
+10:48:23 INFO thread starting
+10:48:23 DEBUG switchOn
+10:48:23 SUCCESS 2 [OPENWSN] booted
+10:48:23 INFO thread starting
+10:48:23 DEBUG switchOn
+10:48:23 SUCCESS 1 [OPENWSN] booted
+10:48:24 SUCCESS Setting mote 0002 as root
+10:48:24 INFO starting RPC server
+10:48:24 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+10:48:25 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+10:49:52 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+10:50:05 INFO 5 [SIXTOP] sending a 6top request
+10:50:06 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:50:11 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:50:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:50:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:50:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:50:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:50:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:50:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:50:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:50:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:51:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:51:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:51:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:51:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:51:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:51:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:51:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:51:52 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+10:51:52 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+10:51:53 INFO 1 [SIXTOP] sending a 6top request
+10:51:54 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:51:55 INFO 4 [SIXTOP] sending a 6top request
+10:52:04 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+10:52:04 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+10:52:23 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:23 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:24 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:24 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:26 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:26 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:26 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:26 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:27 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:27 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:27 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:27 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:35 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:35 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:35 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:35 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:36 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:36 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:36 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:36 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-fe-b7-00-3a-cb-6a-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 07 fe b7 00 3a cb 6a bd a4 d4 d7  .........:.j....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:37 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1688 into an IPv6 packet of size 90
+10:52:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:52:39 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:39 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-10-f2-00-3a-b9-2f-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 10 f2 00 3a b9 2f bd a4 d4 d7  .........:./....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:42 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:42 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-10-f2-00-3a-b9-2f-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 10 f2 00 3a b9 2f bd a4 d4 d7  .........:./....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:43 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:43 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-10-f2-00-3a-b9-2f-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 10 f2 00 3a b9 2f bd a4 d4 d7  .........:./....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:44 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:5 dropped (DESTINATIONUNREACHABLE not supported)
+10:52:44 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-05
+source route:
+ - 14-15-92-cc-00-00-00-05
+payload:           (106B) 01-04-6e-c9-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-05-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-10-f2-00-3a-b9-2f-bd-a4-d4-d7-93-63-af-67-63-78-72-4f-b2-ad-10-ed-a3-b0-9b-60-a6-08-ca-63-3f-f3-86-63-33-5b-86-0a-5b-a0-71-e8-97-77-c9-61-1e-a2-95-86-bb-2a-12-89-c8-ce
+
+000000  f1 7a 55 3a 00 00 00 00 00 00 00 01 14 15 92 cc  .zU:............
+000010  00 00 00 05 01 04 6e c9 00 00 00 00 60 00 00 00  ......n.....`...
+000020  00 3a 11 40 bb bb 00 00 00 00 00 00 14 15 92 cc  .:.@............
+000030  00 00 00 05 bb bb 00 00 00 00 00 00 00 00 00 00  ................
+000040  00 00 00 01 00 08 10 f2 00 3a b9 2f bd a4 d4 d7  .........:./....
+000050  93 63 af 67 63 78 72 4f b2 ad 10 ed a3 b0 9b 60  .c.gcxrO.......`
+000060  a6 08 ca 63 3f f3 86 63 33 5b 86 0a 5b a0 71 e8  ...c?..c3[..[.q.
+000070  97 77 c9 61 1e a2 95 86 bb 2a 12 89 c8 ce        .w.a.....*....
+
+10:52:45 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:52:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:48 INFO 1 [SIXTOP] sending a 6top request
+10:52:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:50 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARRESPONSE
+10:52:50 INFO 1 [SIXTOP] sending a 6top request
+10:52:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:51 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+10:52:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:54 INFO 4 [SIXTOP] sending a 6top request
+10:52:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:52:54 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:52:56 INFO 3 [SIXTOP] sending a 6top request
+10:52:57 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:53:11 INFO 5 [SIXTOP] sending a 6top request
+10:53:15 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_RELOCATERESPONSE
+10:53:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:34 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+10:53:34 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+10:53:39 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+10:53:39 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+10:53:48 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1689 into an IPv6 packet of size 90
+10:53:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:53:49 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 1
+10:53:49 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 2
+10:53:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:51 INFO 1 [SIXTOP] sending a 6top request
+10:53:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:54 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 3
+10:53:54 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 4
+10:53:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:58 SUCCESS 1 [FRAG] reassembled fragments into big packet (size: 77, tag: 1)
+10:53:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:59 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 5
+10:53:59 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 6
+10:53:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:53:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:54:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:54:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:54:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:54:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:54:04 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 7
+10:54:04 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 8
+10:54:09 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 9
+10:54:09 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 10
+10:54:09 ERROR 2 [OPENBRIDGE] no free packet buffer (code location 0)
+10:54:09 ERROR 2 [OPENBRIDGE] no free packet buffer (code location 0)
+10:54:11 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:12 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:13 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:16 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:20 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:21 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1425 into an IPv6 packet of size 90
+10:54:21 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:54:21 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:22 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:23 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:25 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:54:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:54:27 INFO 5 [SIXTOP] sending a 6top request
+10:54:28 ERROR 2 [ICMPv6RPL] no free packet buffer (code location 0)
+10:54:31 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:54:32 INFO 1 [SIXTOP] sending a 6top request
+10:54:32 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1426 into an IPv6 packet of size 90
+10:54:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:54:37 ERROR 1 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:54:37 INFO 1 [SIXTOP] sending a 6top request
+10:54:42 ERROR 1 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARREQUEST_SENDDONE
+10:54:42 INFO 1 [SIXTOP] sending a 6top request
+10:54:43 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1693 into an IPv6 packet of size 90
+10:54:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:54:45 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1694 into an IPv6 packet of size 90
+10:54:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:54:46 ERROR 5 [FRAG] reassembly or vrb timer expired for fragments with tag 1
+10:54:58 WARNING 5 [FORWARDING] packet to forward is dropped (code location 0)
+10:55:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:55:07 ERROR 5 [FRAG] no free timer or queue entry (code location 0)
+10:55:09 ERROR 5 [FRAG] no free timer or queue entry (code location 0)
+10:55:16 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1695 into an IPv6 packet of size 90
+10:55:16 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:55:17 SUCCESS 1 [FRAG] reassembled fragments into big packet (size: 77, tag: 3)
+10:55:20 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1696 into an IPv6 packet of size 90
+10:55:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+10:55:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:55:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:55:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:55:26 INFO 5 [SIXTOP] sending a 6top request
+10:55:31 INFO 5 [SIXTOP] sending a 6top request
+10:55:32 ERROR 5 [FRAG] reassembly or vrb timer expired for fragments with tag 3
+10:55:41 ERROR 5 [FRAG] no free timer or queue entry (code location 0)
+10:55:41 ERROR 5 [FRAG] reassembly or vrb timer expired for fragments with tag 2
+10:55:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+10:56:02 VERBOSE loading logging configuration: config/logging.conf
+10:56:02 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- set root                = emulated2
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+10:56:02 INFO opening tun interface
+10:56:02 INFO created following virtual interfaces
+10:56:02 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpfPnMjG'
+10:56:02 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpfPnMjG/linux/oos_openwsn-amd64.so'
+10:56:02 INFO thread initialized
+10:56:02 INFO thread initialized
+10:56:02 INFO thread initialized
+10:56:02 INFO thread initialized
+10:56:02 INFO thread initialized
+10:56:02 INFO extracting firmware definitions.
+10:56:02 VERBOSE extracting firmware component names
+10:56:02 VERBOSE extracting firmware log descriptions.
+10:56:02 VERBOSE extracting 6top return codes.
+10:56:02 VERBOSE extracting 6top states.
+10:56:03 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:56:04 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:56:05 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:56:06 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:56:07 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:56:07 INFO Setting DAG root...
+10:56:07 INFO thread starting
+10:56:07 DEBUG switchOn
+10:56:07 SUCCESS 5 [OPENWSN] booted
+10:56:07 INFO thread starting
+10:56:07 DEBUG switchOn
+10:56:07 SUCCESS 4 [OPENWSN] booted
+10:56:07 INFO thread starting
+10:56:07 DEBUG switchOn
+10:56:07 SUCCESS 3 [OPENWSN] booted
+10:56:07 INFO thread starting
+10:56:07 DEBUG switchOn
+10:56:07 SUCCESS 2 [OPENWSN] booted
+10:56:07 INFO thread starting
+10:56:07 DEBUG switchOn
+10:56:07 SUCCESS 1 [OPENWSN] booted
+10:56:09 SUCCESS Setting mote 0002 as root
+10:56:09 INFO starting RPC server
+10:56:09 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+10:56:10 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+10:56:33 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+10:56:40 INFO 1 [SIXTOP] sending a 6top request
+10:56:40 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:56:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:57:01 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+10:57:03 INFO 3 [SIXTOP] sending a 6top request
+10:57:03 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+10:57:03 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:57:04 INFO 3 [SIXTOP] sending a 6top request
+10:57:04 ERROR 3 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDRESPONSE
+10:57:04 INFO 3 [SIXTOP] sending a 6top request
+10:57:05 ERROR 3 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_CLEARRESPONSE
+10:57:05 INFO 3 [SIXTOP] sending a 6top request
+10:57:06 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARRESPONSE
+10:57:06 INFO 3 [SIXTOP] sending a 6top request
+10:57:07 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:57:07 SUCCESS [GATEWAY] Reassembled 2 frags with tag 892 into an IPv6 packet of size 89
+10:57:07 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:57:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:57:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:57:16 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+10:57:18 INFO 4 [SIXTOP] sending a 6top request
+10:57:19 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:57:21 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:57:24 SUCCESS [GATEWAY] Reassembled 2 frags with tag 893 into an IPv6 packet of size 89
+10:57:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:57:28 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1517 into an IPv6 packet of size 89
+10:57:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:57:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:57:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:57:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:57:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:57:44 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+10:57:47 INFO 5 [SIXTOP] sending a 6top request
+10:57:47 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:57:56 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 1
+10:57:56 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 2
+10:57:59 SUCCESS [GATEWAY] Reassembled 2 frags with tag 894 into an IPv6 packet of size 89
+10:57:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:58:00 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 2)
+10:58:00 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 1)
+10:58:01 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 3
+10:58:01 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 4
+10:58:02 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 3)
+10:58:04 SUCCESS [GATEWAY] Reassembled 2 frags with tag 895 into an IPv6 packet of size 89
+10:58:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:58:04 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 4)
+10:58:04 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 5
+10:58:04 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 6
+10:58:06 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 6)
+10:58:06 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:3 dropped (DESTINATIONUNREACHABLE not supported)
+10:58:06 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-03
+source route:
+ - 14-15-92-cc-00-00-00-03
+ - 14-15-92-cc-00-00-00-01
+payload:           (106B) 01-04-6e-cb-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-03-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-8a-a4-00-3a-d6-ec-bc-33-71-2d-04-c0-03-8d-f3-40-fc-7f-2e-41-7d-c1-2c-c8-41-a6-de-ea-d3-68-b4-bd-54-9e-43-a0-6c-c1-37-d5-9d-bb-da-d5-e4-4c-10-b1-70-8d-13-6e-67-5a-42-d8
+
+000000  f1 80 03 14 15 92 cc 00 00 00 01 7a 55 3a 00 00  ...........zU:..
+000010  00 00 00 00 00 01 14 15 92 cc 00 00 00 03 01 04  ................
+000020  6e cb 00 00 00 00 60 00 00 00 00 3a 11 40 bb bb  n.....`....:.@..
+000030  00 00 00 00 00 00 14 15 92 cc 00 00 00 03 bb bb  ................
+000040  00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 08  ................
+000050  8a a4 00 3a d6 ec bc 33 71 2d 04 c0 03 8d f3 40  ...:...3q-.....@
+000060  fc 7f 2e 41 7d c1 2c c8 41 a6 de ea d3 68 b4 bd  ...A}.,.A....h..
+000070  54 9e 43 a0 6c c1 37 d5 9d bb da d5 e4 4c 10 b1  T.C.l.7......L..
+000080  70 8d 13 6e 67 5a 42 d8                          p..ngZB.
+
+10:58:06 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 5)
+10:58:06 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 7
+10:58:06 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 8
+10:58:08 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 7)
+10:58:08 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:3 dropped (DESTINATIONUNREACHABLE not supported)
+10:58:08 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-03
+source route:
+ - 14-15-92-cc-00-00-00-03
+ - 14-15-92-cc-00-00-00-01
+payload:           (106B) 01-04-6e-cb-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-03-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-e9-dc-00-3a-a5-07-d0-ca-18-02-4e-74-ac-55-49-59-94-34-fa-b5-f9-68-b0-54-c0-e5-63-c3-6c-01-05-92-5a-06-e4-c1-95-da-c9-d6-c1-a3-90-34-d7-60-47-bb-2a-78-b7-08-cc-82-98-eb
+
+000000  f1 80 03 14 15 92 cc 00 00 00 01 7a 55 3a 00 00  ...........zU:..
+000010  00 00 00 00 00 01 14 15 92 cc 00 00 00 03 01 04  ................
+000020  6e cb 00 00 00 00 60 00 00 00 00 3a 11 40 bb bb  n.....`....:.@..
+000030  00 00 00 00 00 00 14 15 92 cc 00 00 00 03 bb bb  ................
+000040  00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 07  ................
+000050  e9 dc 00 3a a5 07 d0 ca 18 02 4e 74 ac 55 49 59  ...:......Nt.UIY
+000060  94 34 fa b5 f9 68 b0 54 c0 e5 63 c3 6c 01 05 92  .4...h.T..c.l...
+000070  5a 06 e4 c1 95 da c9 d6 c1 a3 90 34 d7 60 47 bb  Z..........4.`G.
+000080  2a 78 b7 08 cc 82 98 eb                          *x......
+
+10:58:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:58:11 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 8)
+10:58:11 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 9
+10:58:11 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 88) into 2 fragments with tag 10
+10:58:12 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 9)
+10:58:12 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 77, tag: 10)
+10:58:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:58:23 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1521 into an IPv6 packet of size 90
+10:58:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:58:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:58:30 SUCCESS [GATEWAY] Reassembled 2 frags with tag 896 into an IPv6 packet of size 89
+10:58:30 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:58:33 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1522 into an IPv6 packet of size 90
+10:58:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:58:55 ERROR 3 [FRAG] reassembly or vrb timer expired for fragments with tag 3
+10:58:56 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1689 into an IPv6 packet of size 89
+10:58:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:59:00 ERROR 3 [FRAG] reassembly or vrb timer expired for fragments with tag 5
+10:59:02 ERROR 3 [FRAG] reassembly or vrb timer expired for fragments with tag 7
+10:59:04 ERROR 3 [FRAG] reassembly or vrb timer expired for fragments with tag 8
+10:59:06 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1525 into an IPv6 packet of size 90
+10:59:06 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:59:08 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1690 into an IPv6 packet of size 89
+10:59:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:59:09 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1526 into an IPv6 packet of size 90
+10:59:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:59:13 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 11
+10:59:13 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 12
+10:59:14 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 12)
+10:59:14 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 11)
+10:59:15 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 13
+10:59:15 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 14
+10:59:17 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 14)
+10:59:18 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 13)
+10:59:18 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 15
+10:59:18 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 16
+10:59:20 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 16)
+10:59:21 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 17
+10:59:21 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 18
+10:59:21 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 17)
+10:59:22 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 15)
+10:59:23 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:3 dropped (DESTINATIONUNREACHABLE not supported)
+10:59:23 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-03
+source route:
+ - 14-15-92-cc-00-00-00-03
+ - 14-15-92-cc-00-00-00-01
+payload:           (106B) 01-04-6e-cb-00-00-00-00-60-00-00-00-00-3a-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-03-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-07-40-2f-00-3a-71-f9-62-af-bb-45-11-c6-1e-3c-09-3b-54-f9-31-c7-65-86-ea-79-cc-63-b4-47-fc-c2-78-fc-1c-eb-b3-0d-2c-1c-9e-f7-cc-0d-68-75-3a-4d-12-f3-99-e3-bc-38-d2-ac-c4-f6
+
+000000  f1 80 03 14 15 92 cc 00 00 00 01 7a 55 3a 00 00  ...........zU:..
+000010  00 00 00 00 00 01 14 15 92 cc 00 00 00 03 01 04  ................
+000020  6e cb 00 00 00 00 60 00 00 00 00 3a 11 40 bb bb  n.....`....:.@..
+000030  00 00 00 00 00 00 14 15 92 cc 00 00 00 03 bb bb  ................
+000040  00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 07  ................
+000050  40 2f 00 3a 71 f9 62 af bb 45 11 c6 1e 3c 09 3b  @/.:q.b..E...<.;
+000060  54 f9 31 c7 65 86 ea 79 cc 63 b4 47 fc c2 78 fc  T.1.e..y.c.G..x.
+000070  1c eb b3 0d 2c 1c 9e f7 cc 0d 68 75 3a 4d 12 f3  ....,.....hu:M..
+000080  99 e3 bc 38 d2 ac c4 f6                          ...8....
+
+10:59:24 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 18)
+10:59:24 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 19
+10:59:24 INFO [GATEWAY] Fragmenting incoming IPv6 packet (size: 98) into 2 fragments with tag 20
+10:59:25 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 19)
+10:59:25 SUCCESS 3 [FRAG] reassembled fragments into big packet (size: 87, tag: 20)
+10:59:41 ERROR ICMPv6 packet with destination bbbb:0:0:0:1415:92cc:0:3 dropped (DESTINATIONUNREACHABLE not supported)
+10:59:41 ERROR 
+
+============================= lowpan packet ===================================
+
+tf:                ( 0B) 
+nh:                ( 1B) 3a
+hlim:              ( 0B) 
+cid:               ( 0B) 
+src_addr:          ( 8B) 00-00-00-00-00-00-00-01
+dst_addr:          ( 8B) 14-15-92-cc-00-00-00-03
+source route:
+ - 14-15-92-cc-00-00-00-03
+ - 14-15-92-cc-00-00-00-01
+payload:           (96B) 01-04-6e-d5-00-00-00-00-60-00-00-00-00-30-11-40-bb-bb-00-00-00-00-00-00-14-15-92-cc-00-00-00-03-bb-bb-00-00-00-00-00-00-00-00-00-00-00-00-00-01-00-08-c8-aa-00-30-5b-ef-0c-12-80-bb-96-6c-49-2d-a1-2a-a0-e6-05-50-39-59-b2-18-82-1b-09-1f-50-40-9d-2a-d1-9d-1b-93-72-c1-b9-e2-c7-4a-b3-95-0f-fa
+
+000000  f1 80 03 14 15 92 cc 00 00 00 01 7a 55 3a 00 00  ...........zU:..
+000010  00 00 00 00 00 01 14 15 92 cc 00 00 00 03 01 04  ................
+000020  6e d5 00 00 00 00 60 00 00 00 00 30 11 40 bb bb  n.....`....0.@..
+000030  00 00 00 00 00 00 14 15 92 cc 00 00 00 03 bb bb  ................
+000040  00 00 00 00 00 00 00 00 00 00 00 00 00 01 00 08  ................
+000050  c8 aa 00 30 5b ef 0c 12 80 bb 96 6c 49 2d a1 2a  ...0[......lI-.*
+000060  a0 e6 05 50 39 59 b2 18 82 1b 09 1f 50 40 9d 2a  ...P9Y......P@.*
+000070  d1 9d 1b 93 72 c1 b9 e2 c7 4a b3 95 0f fa        ....r....J....
+

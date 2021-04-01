@@ -44,7 +44,7 @@ def udp_send_and_receive(hisPort, hisAddress, myPort, myAddress, succ, fail, del
         # log
         print '\n'
         print c.Back.YELLOW + c.Fore.BLACK + "TIMEOUT" + c.Style.RESET_ALL
-        print "\n=========================================\n"
+        print "\n"
 
     else:
         if reply == request:
@@ -71,7 +71,7 @@ def udp_send_and_receive(hisPort, hisAddress, myPort, myAddress, succ, fail, del
 
         print output
 
-        print "\n=========================================\n"
+        print "\n"
 
     # close socket
     socket_handler.close()
