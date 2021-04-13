@@ -91,6 +91,8 @@ if 'rrt' in env['apps'].split(','):
     env.Append(CPPDEFINES='OPENWSN_RRT_C')
 if 'uecho' in env['apps'].split(','):
     env.Append(CPPDEFINES='OPENWSN_UECHO_C')
+if 'uecho_dup' in env['apps'].split(','):
+    env.Append(CPPDEFINES='OPENWSN_UECHO_DUP_C')
 if 'uexpiration' in env['apps'].split(','):
     env.Append(CPPDEFINES='OPENWSN_UEXPIRATION_C')
 if 'uexp-monitor' in env['apps'].split(','):

@@ -139,7 +139,19 @@
  *
  */
 #ifndef OPENWSN_UECHO_C
-#define OPENWSN_UECHO_C (0)
+#define OPENWSN_UECHO_C (1)
+#endif
+
+/**
+ * \def OPENWSN_UECHO_DUP_C
+ *
+ * Duplicate of the uecho application for testing purposes
+ *
+ * Requires: OPENWSN_UDP_C
+ *
+ */
+#ifndef OPENWSN_UECHO_DUP_C
+#define OPENWSN_UECHO_DUP_C (1)
 #endif
 
 /**
@@ -233,7 +245,7 @@
  *
  */
 #ifndef OPENWSN_UDP_C
-#define OPENWSN_UDP_C (0)
+#define OPENWSN_UDP_C (1)
 #endif
 
 /**
@@ -248,7 +260,7 @@
  *
  */
 #ifndef OPENWSN_6LO_FRAGMENTATION_C
-#define OPENWSN_6LO_FRAGMENTATION_C (0)
+#define OPENWSN_6LO_FRAGMENTATION_C (1)
 #endif
 
 #if OPENWSN_6LO_FRAGMENTATION_C

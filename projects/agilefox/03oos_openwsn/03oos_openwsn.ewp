@@ -321,6 +321,7 @@
           <state>$PROJ_DIR$\..\..\..\openapps\cleds\</state>
           <state>$PROJ_DIR$\..\..\..\openapps\cwellknown\</state>
           <state>$PROJ_DIR$\..\..\..\openapps\uecho\</state>
+          <state>$PROJ_DIR$\..\..\..\openapps\uecho_dup\</state>
         </option>
         <option>
           <name>CCStdIncCheck</name>
@@ -2183,6 +2184,15 @@
       </file>
       <file>
         <name>$PROJ_DIR$\..\..\..\openapps\uecho\uecho.h</name>
+      </file>
+    </group>
+    <group>
+      <name>uecho_dup</name>
+      <file>
+        <name>$PROJ_DIR$\..\..\..\openapps\uecho_dup\uecho_dup.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\..\openapps\uecho_dup\uecho_dup.h</name>
       </file>
     </group>
     <file>

@@ -350,6 +350,7 @@
 		  <state>$PROJ_DIR$\..\..\..\openapps\opencoap\</state>
 		  <state>$PROJ_DIR$\..\..\..\openapps\rrt\</state>
           <state>$PROJ_DIR$\..\..\..\openapps\uecho\</state>
+          <state>$PROJ_DIR$\..\..\..\openapps\uecho_dup\</state>
 		  <state>$PROJ_DIR$\..\..\..\openapps\uexpiration\</state>
 		  <state>$PROJ_DIR$\..\..\..\openapps\uexpiration_monitor\</state>
 		  <state>$PROJ_DIR$\..\..\..\openapps\uinject\</state>
@@ -2288,6 +2289,14 @@
       </file>
       <file>
         <name>$PROJ_DIR$\..\..\..\openapps\uecho\uecho.h</name>
+      </file>
+    </group>
+    <name>uecho_dup</name>
+      <file>
+        <name>$PROJ_DIR$\..\..\..\openapps\uecho_dup\uecho_dup.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\..\openapps\uecho_dup\uecho_dup.h</name>
       </file>
     </group>
     <group>
