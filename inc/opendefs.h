@@ -169,6 +169,7 @@ enum {
    COMPONENT_SOCK_TO_UDP               = 0x1a,
    COMPONENT_UDP_TO_SOCK               = 0x1b,
    COMPONENT_OPENCOAP                  = 0x1c,
+   COMPONENT_SOCKET                    = 0x80,
    // secure join
    COMPONENT_CJOIN                     = 0x1d,
    COMPONENT_OSCORE                    = 0x1e,

@@ -32,6 +32,7 @@
 #include "openqueue_obj.h"
 #include "openrandom_obj.h"
 #include "frag_obj.h"
+#include "udp_socket_obj.h"
 // applications
 #include "c6t_obj.h"
 #include "cexample_obj.h"

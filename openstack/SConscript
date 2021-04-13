@@ -30,6 +30,7 @@ sources_c = [
     #=== 04-TRAN
     os.path.join('04-TRAN','udp.c'),
     os.path.join('04-TRAN','sock','sock.c'),
+    os.path.join('04-TRAN','sock','udp_socket.c'),
     #=== cross-layers
     os.path.join('cross-layers','idmanager.c'),
     os.path.join('cross-layers','openqueue.c'),
@@ -65,6 +66,7 @@ sources_h = [
     os.path.join('04-TRAN','sock','async.h'),
     os.path.join('04-TRAN','sock','sock_types.h'),
     os.path.join('04-TRAN','sock','async_types.h'),
+    os.path.join('04-TRAN','sock','udp_socket.h'),
     #=== cross-layers
     os.path.join('cross-layers','idmanager.h'),
     os.path.join('cross-layers','openqueue.h'),
