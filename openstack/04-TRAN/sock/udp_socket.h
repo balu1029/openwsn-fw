@@ -182,7 +182,7 @@ int16_t udp_socket_socket(int16_t domain, int16_t type, int16_t protocol);
  *          shall be returned and errno set to indicate the error.
  */
 int16_t udp_socket_bind(int16_t socket, const struct sockaddr *address,
-         uint8_t address_len);
+         uint8_t address_len, void* callback);
 
 
 

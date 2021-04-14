@@ -75,7 +75,7 @@ int16_t udp_socket_socket(int16_t domain, int16_t type, int16_t protocol)
 /*****************************************************************************
  * @brief   Bind a name to a socket.
 *****************************************************************************/
-int16_t udp_socket_bind(int16_t socket, const struct sockaddr *address, uint8_t length)
+int16_t udp_socket_bind(int16_t socket, const struct sockaddr *address, uint8_t length, void* callback)
 {
     int16_t retval;
     if (socket < 0)
@@ -93,7 +93,7 @@ int16_t udp_socket_bind(int16_t socket, const struct sockaddr *address, uint8_t 
     		sock_info[socket].sockaddr.sin6_port = addr_in6->sin6_port;
     		memcpy((void*)&sock_info[socket].sockaddr.sin6_addr, (void*)&addr_in6->sin6_addr, IP_ADDR_LEN);
             sock_info[socket].udp_rsc_desc.port = UIP_HTONS(addr_in6->sin6_port); // socket structure is in network order
-            sock_info[socket].udp_rsc_desc.callbackReceive = &udp_socket_deliver_msg_to_sockets;
+            sock_info[socket].udp_rsc_desc.callbackReceive = callback;
             sock_info[socket].udp_rsc_desc.callbackSendDone = NULL; // use default send_done handler
             openudp_register(&sock_info[socket].udp_rsc_desc);
     		retval = 0;
