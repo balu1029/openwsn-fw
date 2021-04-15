@@ -4,6 +4,26 @@
 #include "udp.h"
 #include "opendefs.h"
 //=========================== define ==========================================
+#define UIP_BIG_ENDIAN     0x1234
+#define UIP_LITTLE_ENDIAN  0x3412
+
+#ifndef UIP_BYTE_ORDER
+#define UIP_BYTE_ORDER UIP_LITTLE_ENDIAN
+#endif
+
+
+#ifndef UIP_HTONS
+#   if UIP_BYTE_ORDER == UIP_BIG_ENDIAN
+#      define UIP_HTONS(n) (n)
+#      define UIP_HTONL(n) (n)
+#   else /* UIP_BYTE_ORDER == UIP_BIG_ENDIAN */
+#      define UIP_HTONS(n)  (uint16_t)(((n) <<  8) | ((n) >>  8))
+#      define UIP_HTONL(n)  (uint32_t)(((n) << 16) | ((n) >> 16))
+#   endif /* UIP_BYTE_ORDER == UIP_BIG_ENDIAN */
+#else
+#error "UIP_HTONS already defined!"
+#endif /* UIP_HTONS */
+
 
 #define IP_ADDR_LEN     16
 

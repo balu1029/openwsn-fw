@@ -95,16 +95,12 @@ int16_t udp_socket_bind(int16_t socket, const struct sockaddr *address, uint8_t 
             sock_info[socket].udp_rsc_desc.port = UIP_HTONS(addr_in6->sin6_port); // socket structure is in network order
             sock_info[socket].udp_rsc_desc.callbackReceive = callback;
             sock_info[socket].udp_rsc_desc.callbackSendDone = NULL; // use default send_done handler
-            openudp_register(&sock_info[socket].udp_rsc_desc);
+            //openudp_register(&sock_info[socket].udp_rsc_desc);
     		retval = 0;
     	}
     	else
     	{
     		retval = -1;
-
-    		openserial_printError(COMPONENT_SOCKET,ERR_UNSUPPORTED_PORT_NUMBER,
-    		    	                               (errorparameter_t)socket,
-    		    	                               (errorparameter_t)1);
     	}
     }
     return retval;
@@ -144,10 +140,6 @@ int16_t udp_socket_recvfrom( int16_t socket, void *buffer, size_t buf_len, int16
             {
                 length = -1;            // error                                    // data too long for buffer size
                 sock_info[socket].recv_udp_flag = UDP_FREE;
-
-                openserial_printError(COMPONENT_SOCKET,ERR_UNSUPPORTED_PORT_NUMBER,
-                    		    	                               (errorparameter_t)socket,
-                    		    	                               (errorparameter_t)3);
             }
         }
         else
@@ -158,10 +150,6 @@ int16_t udp_socket_recvfrom( int16_t socket, void *buffer, size_t buf_len, int16
     else
     {
        length = -1;            // error
-
-       openserial_printError(COMPONENT_SOCKET,ERR_UNSUPPORTED_PORT_NUMBER,
-           		    	                               (errorparameter_t)socket,
-           		    	                               (errorparameter_t)2);
     }
     ENABLE_INTERRUPTS();
 
@@ -183,12 +171,6 @@ int16_t udp_socket_sendto(int16_t socket, const void *buffer, size_t length, int
 
    pkt = openqueue_getFreePacketBuffer(COMPONENT_SOCKET);
    if (pkt==NULL) {
-      openserial_printError(
-         COMPONENT_SOCKET,
-         ERR_NO_FREE_PACKET_BUFFER,
-         (errorparameter_t)0,
-         (errorparameter_t)0
-      );
       openqueue_freePacketBuffer(pkt);
       return -1;
    }
@@ -207,16 +189,7 @@ int16_t udp_socket_sendto(int16_t socket, const void *buffer, size_t length, int
    sock_info[socket].recv_udp_flag = UDP_FREE;
 
    ENABLE_INTERRUPTS();
-   if ((openudp_send(pkt))== E_FAIL) {
-	   openserial_printError(
-	            COMPONENT_SOCKET,
-	            ERR_NO_SENT_PACKET,
-	            (errorparameter_t)0,
-	            (errorparameter_t)0
-	         );
-      openqueue_freePacketBuffer(pkt);
-      return -1;
-   }
+   udp_transmit(pkt);
 
   return length;
 }
