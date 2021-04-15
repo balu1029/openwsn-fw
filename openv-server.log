@@ -16272,3 +16272,1407 @@ payload:           (96B) 01-04-6e-d5-00-00-00-00-60-00-00-00-00-30-11-40-bb-bb-0
 15:50:16 INFO created following virtual interfaces
 15:50:16 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpRrPuJv'
 15:50:16 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpRrPuJv/linux/oos_openwsn-amd64.so'
+10:03:32 VERBOSE loading logging configuration: config/logging.conf
+10:03:32 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+10:03:32 INFO opening tun interface
+10:03:32 INFO created following virtual interfaces
+10:03:32 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpz8Hnhp'
+10:03:32 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpz8Hnhp/linux/oos_openwsn-amd64.so'
+10:03:32 INFO thread initialized
+10:03:32 INFO thread initialized
+10:03:32 INFO thread initialized
+10:03:32 INFO thread initialized
+10:03:32 INFO thread initialized
+10:03:32 INFO extracting firmware definitions.
+10:03:32 VERBOSE extracting firmware component names
+10:03:32 VERBOSE extracting firmware log descriptions.
+10:03:32 VERBOSE extracting 6top return codes.
+10:03:32 VERBOSE extracting 6top states.
+10:03:33 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:34 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:35 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:36 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:37 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:03:37 INFO starting RPC server
+10:03:37 INFO thread starting
+10:03:37 DEBUG switchOn
+10:03:37 SUCCESS 5 [OPENWSN] booted
+10:03:37 INFO thread starting
+10:03:37 DEBUG switchOn
+10:03:37 SUCCESS 4 [OPENWSN] booted
+10:03:37 INFO thread starting
+10:03:37 DEBUG switchOn
+10:03:37 SUCCESS 3 [OPENWSN] booted
+10:03:37 INFO thread starting
+10:03:37 DEBUG switchOn
+10:03:37 SUCCESS 2 [OPENWSN] booted
+10:03:37 INFO thread starting
+10:03:37 DEBUG switchOn
+10:03:37 SUCCESS 1 [OPENWSN] booted
+10:03:48 SUCCESS Setting mote 0002 as root
+10:03:48 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+10:03:48 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+10:03:58 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+10:04:13 INFO 1 [SIXTOP] sending a 6top request
+10:04:14 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:04:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:04:25 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+10:04:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:04:30 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:04:34 INFO 5 [SIXTOP] sending a 6top request
+10:04:34 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:04:37 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+10:04:37 SUCCESS [GATEWAY] Reassembled 2 frags with tag 892 into an IPv6 packet of size 89
+10:04:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:04:38 INFO 3 [SIXTOP] sending a 6top request
+10:04:38 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:04:38 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:04:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:04:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:05:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:05:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:05:26 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:05:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:05:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:05:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:05:39 SUCCESS [GATEWAY] Reassembled 2 frags with tag 893 into an IPv6 packet of size 89
+10:05:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:06:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:06:15 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+10:06:16 INFO 4 [SIXTOP] sending a 6top request
+10:06:16 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:06:31 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:06:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:06:32 SUCCESS [GATEWAY] Reassembled 2 frags with tag 894 into an IPv6 packet of size 89
+10:06:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:06:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:06:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:06:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:06:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:28 SUCCESS [GATEWAY] Reassembled 2 frags with tag 895 into an IPv6 packet of size 89
+10:07:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:07:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:07:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:08:04 SUCCESS [GATEWAY] Reassembled 2 frags with tag 896 into an IPv6 packet of size 89
+10:08:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:08:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:08:23 SUCCESS [GATEWAY] Reassembled 2 frags with tag 897 into an IPv6 packet of size 89
+10:08:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:08:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:08:37 SUCCESS [GATEWAY] Reassembled 2 frags with tag 898 into an IPv6 packet of size 89
+10:08:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+10:09:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:10:47 VERBOSE loading logging configuration: config/logging.conf
+10:10:47 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+10:10:47 INFO opening tun interface
+10:10:47 INFO created following virtual interfaces
+10:10:47 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpEkOuSA'
+10:10:47 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpEkOuSA/linux/oos_openwsn-amd64.so'
+10:10:47 INFO thread initialized
+10:10:47 INFO thread initialized
+10:10:47 INFO thread initialized
+10:10:47 INFO thread initialized
+10:10:47 INFO thread initialized
+10:10:47 INFO extracting firmware definitions.
+10:10:47 VERBOSE extracting firmware component names
+10:10:47 VERBOSE extracting firmware log descriptions.
+10:10:47 VERBOSE extracting 6top return codes.
+10:10:47 VERBOSE extracting 6top states.
+10:10:48 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:10:49 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:10:50 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:10:51 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:10:52 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:10:52 INFO starting RPC server
+10:10:52 INFO thread starting
+10:10:52 DEBUG switchOn
+10:10:52 SUCCESS 5 [OPENWSN] booted
+10:10:52 INFO thread starting
+10:10:52 DEBUG switchOn
+10:10:52 SUCCESS 4 [OPENWSN] booted
+10:10:52 INFO thread starting
+10:10:52 DEBUG switchOn
+10:10:52 SUCCESS 3 [OPENWSN] booted
+10:10:52 INFO thread starting
+10:10:52 DEBUG switchOn
+10:10:52 SUCCESS 2 [OPENWSN] booted
+10:10:52 INFO thread starting
+10:10:52 DEBUG switchOn
+10:10:52 SUCCESS 1 [OPENWSN] booted
+10:10:54 SUCCESS Setting mote 0002 as root
+10:10:54 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+10:10:55 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+10:13:18 SUCCESS Setting mote 0002 as root
+10:13:18 ERROR 2 [IEEE802154E] got desynchronized at slotOffset 4
+10:13:18 WARNING unregistering DAGroot 14-15-92-cc-00-00-00-02
+10:13:26 SUCCESS Setting mote 0002 as root
+10:13:26 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+10:13:26 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+10:14:03 VERBOSE cleaning up files: /tmp/tmpEkOuSA
+10:14:06 VERBOSE loading logging configuration: config/logging.conf
+10:14:06 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+10:14:06 INFO opening tun interface
+10:14:06 INFO created following virtual interfaces
+10:14:06 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpJMTCUo'
+10:14:06 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpJMTCUo/linux/oos_openwsn-amd64.so'
+10:14:06 INFO thread initialized
+10:14:06 INFO thread initialized
+10:14:06 INFO thread initialized
+10:14:06 INFO thread initialized
+10:14:06 INFO thread initialized
+10:14:06 INFO extracting firmware definitions.
+10:14:06 VERBOSE extracting firmware component names
+10:14:06 VERBOSE extracting firmware log descriptions.
+10:14:06 VERBOSE extracting 6top return codes.
+10:14:06 VERBOSE extracting 6top states.
+10:14:07 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:14:08 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:14:10 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:14:11 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:14:12 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:14:12 INFO starting RPC server
+10:14:12 INFO thread starting
+10:14:12 DEBUG switchOn
+10:14:12 SUCCESS 5 [OPENWSN] booted
+10:14:12 INFO thread starting
+10:14:12 DEBUG switchOn
+10:14:12 SUCCESS 4 [OPENWSN] booted
+10:14:12 INFO thread starting
+10:14:12 DEBUG switchOn
+10:14:12 SUCCESS 3 [OPENWSN] booted
+10:14:12 INFO thread starting
+10:14:12 DEBUG switchOn
+10:14:12 SUCCESS 2 [OPENWSN] booted
+10:14:12 INFO thread starting
+10:14:12 DEBUG switchOn
+10:14:12 SUCCESS 1 [OPENWSN] booted
+10:14:15 SUCCESS Setting mote 0002 as root
+10:14:15 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+10:14:16 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+10:14:28 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+10:14:29 INFO 1 [SIXTOP] sending a 6top request
+10:14:30 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:14:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:14:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:14:58 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:14:59 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+10:15:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:15:04 INFO 3 [SIXTOP] sending a 6top request
+10:15:08 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:15:10 SUCCESS [GATEWAY] Reassembled 2 frags with tag 892 into an IPv6 packet of size 89
+10:15:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:15:12 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:15:15 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:15:17 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:15:25 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:15:29 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:15:34 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+10:15:35 INFO 5 [SIXTOP] sending a 6top request
+10:15:35 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:15:42 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:15:43 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+10:15:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:15:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:15:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:15:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:15:48 SUCCESS [GATEWAY] Reassembled 2 frags with tag 893 into an IPv6 packet of size 89
+10:15:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:15:48 ERROR 1 [ICMPv6RPL] large DAGrank 19968, set to 5376
+10:15:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:15:53 ERROR 1 [ICMPv6RPL] large DAGrank 19968, set to 10496
+10:15:54 INFO 4 [SIXTOP] sending a 6top request
+10:15:54 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+10:15:56 SUCCESS [GATEWAY] Reassembled 2 frags with tag 894 into an IPv6 packet of size 89
+10:15:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:16:00 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:16:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:04 ERROR 1 [ICMPv6RPL] large DAGrank 19968, set to 15616
+10:16:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:27 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:30 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:16:36 SUCCESS [GATEWAY] Reassembled 2 frags with tag 895 into an IPv6 packet of size 89
+10:16:36 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:16:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:16:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:16:58 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:17:09 SUCCESS [GATEWAY] Reassembled 2 frags with tag 896 into an IPv6 packet of size 89
+10:17:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:17:10 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:16 SUCCESS [GATEWAY] Reassembled 2 frags with tag 897 into an IPv6 packet of size 89
+10:17:16 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:17:16 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:24 SUCCESS [GATEWAY] Reassembled 2 frags with tag 898 into an IPv6 packet of size 89
+10:17:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:17:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:17:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:35 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:36 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:36 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:17:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:17:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:09 SUCCESS [GATEWAY] Reassembled 2 frags with tag 899 into an IPv6 packet of size 89
+10:18:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:18:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:18:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:29 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:30 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:18:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:36 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:18:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:18:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 900 into an IPv6 packet of size 89
+10:18:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:18:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:57 SUCCESS [GATEWAY] Reassembled 2 frags with tag 901 into an IPv6 packet of size 89
+10:18:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:18:58 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:58 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:18:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:19:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:19:23 SUCCESS [GATEWAY] Reassembled 2 frags with tag 902 into an IPv6 packet of size 89
+10:19:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:19:38 SUCCESS [GATEWAY] Reassembled 2 frags with tag 903 into an IPv6 packet of size 89
+10:19:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:19:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:19:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:19:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:19:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 904 into an IPv6 packet of size 89
+10:19:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:19:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:19:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:20:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:15 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:20 SUCCESS [GATEWAY] Reassembled 2 frags with tag 905 into an IPv6 packet of size 89
+10:20:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:20:20 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:45 INFO 4 [SIXTOP] sending a 6top request
+10:20:45 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:20:47 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_RELOCATERESPONSE
+10:20:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:20:50 SUCCESS [GATEWAY] Reassembled 2 frags with tag 906 into an IPv6 packet of size 89
+10:20:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:20:57 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:21:04 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:21:04 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:21:05 SUCCESS [GATEWAY] Reassembled 2 frags with tag 907 into an IPv6 packet of size 89
+10:21:05 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:21:05 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:21:08 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:21:12 SUCCESS [GATEWAY] Reassembled 2 frags with tag 908 into an IPv6 packet of size 89
+10:21:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:21:16 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:21:23 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+10:21:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:21:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:21:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:21:48 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:21:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:21:50 SUCCESS [GATEWAY] Reassembled 2 frags with tag 909 into an IPv6 packet of size 89
+10:21:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:21:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:21:56 SUCCESS [GATEWAY] Reassembled 2 frags with tag 910 into an IPv6 packet of size 89
+10:21:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+10:22:05 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+10:22:09 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:22:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:22:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:22:13 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:22:14 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:22:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:22:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:22:44 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+10:25:21 VERBOSE loading logging configuration: config/logging.conf
+10:25:21 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+10:25:21 INFO opening tun interface
+10:25:21 INFO created following virtual interfaces
+10:25:22 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpZEkQUf'
+10:25:22 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpZEkQUf/linux/oos_openwsn-amd64.so'
+10:25:22 INFO thread initialized
+10:25:22 INFO thread initialized
+10:25:22 INFO thread initialized
+10:25:22 INFO thread initialized
+10:25:22 INFO thread initialized
+10:25:22 INFO extracting firmware definitions.
+10:25:22 VERBOSE extracting firmware component names
+10:25:22 VERBOSE extracting firmware log descriptions.
+10:25:22 VERBOSE extracting 6top return codes.
+10:25:22 VERBOSE extracting 6top states.
+10:25:23 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:25:24 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:25:25 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:25:26 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:25:27 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+10:25:27 INFO starting RPC server
+10:25:27 INFO thread starting
+10:25:27 DEBUG switchOn
+10:25:27 SUCCESS 5 [OPENWSN] booted
+10:25:27 INFO thread starting
+10:25:27 DEBUG switchOn
+10:25:27 SUCCESS 4 [OPENWSN] booted
+10:25:27 INFO thread starting
+10:25:27 DEBUG switchOn
+10:25:27 SUCCESS 3 [OPENWSN] booted
+10:25:27 INFO thread starting
+10:25:27 DEBUG switchOn
+10:25:27 SUCCESS 2 [OPENWSN] booted
+10:25:27 INFO thread starting
+10:25:27 DEBUG switchOn
+10:25:27 SUCCESS 1 [OPENWSN] booted
+10:25:28 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+10:25:28 VERBOSE cleaning up files: /tmp/tmpZEkQUf
+11:42:45 VERBOSE loading logging configuration: config/logging.conf
+11:42:45 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+11:42:45 INFO opening tun interface
+11:42:45 INFO created following virtual interfaces
+11:42:45 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpjZftES'
+11:42:45 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpjZftES/linux/oos_openwsn-amd64.so'
+11:42:45 INFO thread initialized
+11:42:45 INFO thread initialized
+11:42:45 INFO thread initialized
+11:42:45 INFO thread initialized
+11:42:45 INFO thread initialized
+11:42:45 INFO extracting firmware definitions.
+11:42:45 VERBOSE extracting firmware component names
+11:42:45 VERBOSE extracting firmware log descriptions.
+11:42:45 VERBOSE extracting 6top return codes.
+11:42:45 VERBOSE extracting 6top states.
+11:43:41 VERBOSE loading logging configuration: config/logging.conf
+11:43:41 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+11:43:41 INFO opening tun interface
+11:43:41 INFO created following virtual interfaces
+11:43:41 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpmOALaQ'
+11:43:41 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpmOALaQ/linux/oos_openwsn-amd64.so'
+11:43:41 INFO thread initialized
+11:43:41 INFO thread initialized
+11:43:41 INFO thread initialized
+11:43:41 INFO thread initialized
+11:43:41 INFO thread initialized
+11:43:41 INFO extracting firmware definitions.
+11:43:41 VERBOSE extracting firmware component names
+11:43:41 VERBOSE extracting firmware log descriptions.
+11:43:41 VERBOSE extracting 6top return codes.
+11:43:41 VERBOSE extracting 6top states.
+11:43:43 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:43:44 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:43:45 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:43:46 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:43:47 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:43:47 INFO starting RPC server
+11:43:47 INFO thread starting
+11:43:47 DEBUG switchOn
+11:43:47 SUCCESS 5 [OPENWSN] booted
+11:43:47 INFO thread starting
+11:43:47 DEBUG switchOn
+11:43:47 SUCCESS 4 [OPENWSN] booted
+11:43:47 INFO thread starting
+11:43:47 DEBUG switchOn
+11:43:47 SUCCESS 3 [OPENWSN] booted
+11:43:47 INFO thread starting
+11:43:47 DEBUG switchOn
+11:43:47 SUCCESS 2 [OPENWSN] booted
+11:43:47 INFO thread starting
+11:43:47 DEBUG switchOn
+11:43:47 SUCCESS 1 [OPENWSN] booted
+11:44:15 SUCCESS Setting mote 0002 as root
+11:44:15 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+11:44:15 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+11:44:17 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+11:44:19 INFO 5 [SIXTOP] sending a 6top request
+11:44:19 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+11:44:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:44:30 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+11:44:41 INFO 3 [SIXTOP] sending a 6top request
+11:44:45 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+11:44:45 INFO 3 [SIXTOP] sending a 6top request
+11:44:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:44:49 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+11:44:51 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:44:51 INFO 1 [SIXTOP] sending a 6top request
+11:44:52 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+11:44:55 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:5
+	- children:
+11:45:05 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+11:45:07 INFO 4 [SIXTOP] sending a 6top request
+11:45:07 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+11:45:07 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+11:45:12 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1517 into an IPv6 packet of size 89
+11:45:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+11:45:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+11:45:25 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+11:45:27 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+11:45:32 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1688 into an IPv6 packet of size 89
+11:45:32 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+11:45:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:1
+	- children:
+11:45:35 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+11:45:37 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1689 into an IPv6 packet of size 89
+11:45:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+11:45:56 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+11:46:01 VERBOSE loading logging configuration: config/logging.conf
+11:46:01 INFO initializing OV Server with options:
+	- log files directory     = /root/.cache/openvisualizer/log
+	- data files directory    = /root/.local/share/openvisualizer
+	- host address server     = localhost
+	- port number server      = 9000
+	- firmware path           = .
+	- simulation              = 5
+	- simulation topology     = Pister-hack
+	- auto-boot sim motes     = True
+	- opentun                 = True
+	- use page zero           = False
+	- use VCD logger          = False
+11:46:01 INFO opening tun interface
+11:46:01 INFO created following virtual interfaces
+11:46:01 VERBOSE copying './bsp/boards/python/openwsnmodule_obj.h' to temporary dir '/tmp/tmpCqns6L'
+11:46:01 VERBOSE copying './build/python_gcc/projects/common/oos_openwsn.so' to '/tmp/tmpCqns6L/linux/oos_openwsn-amd64.so'
+11:46:01 INFO thread initialized
+11:46:01 INFO thread initialized
+11:46:01 INFO thread initialized
+11:46:01 INFO thread initialized
+11:46:01 INFO thread initialized
+11:46:01 INFO extracting firmware definitions.
+11:46:01 VERBOSE extracting firmware component names
+11:46:01 VERBOSE extracting firmware log descriptions.
+11:46:01 VERBOSE extracting 6top return codes.
+11:46:01 VERBOSE extracting 6top states.
+11:46:02 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:46:03 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:46:04 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:46:05 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:46:06 ERROR failed to connect to null with error msg: [Errno -3] Temporary failure in name resolution
+11:46:06 INFO starting RPC server
+11:46:06 INFO thread starting
+11:46:06 DEBUG switchOn
+11:46:06 SUCCESS 5 [OPENWSN] booted
+11:46:06 INFO thread starting
+11:46:06 DEBUG switchOn
+11:46:06 SUCCESS 4 [OPENWSN] booted
+11:46:06 INFO thread starting
+11:46:06 DEBUG switchOn
+11:46:06 SUCCESS 3 [OPENWSN] booted
+11:46:06 INFO thread starting
+11:46:06 DEBUG switchOn
+11:46:06 SUCCESS 2 [OPENWSN] booted
+11:46:06 INFO thread starting
+11:46:06 DEBUG switchOn
+11:46:06 SUCCESS 1 [OPENWSN] booted
+11:46:08 SUCCESS Setting mote 0002 as root
+11:46:08 ERROR 2 [IEEE802154E] wrong state 1 in startSlot, at slotOffset 1
+11:46:09 INFO registering DAGroot 14-15-92-cc-00-00-00-02
+11:46:09 SUCCESS 5 [IEEE802154E] synchronized at slotOffset 0
+11:46:32 INFO 5 [SIXTOP] sending a 6top request
+11:46:32 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDREQUEST_SENDDONE
+11:46:51 SUCCESS 3 [IEEE802154E] synchronized at slotOffset 0
+11:46:54 INFO 3 [SIXTOP] sending a 6top request
+11:46:55 SUCCESS 3 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+11:46:57 INFO 5 [SIXTOP] sending a 6top request
+11:46:58 ERROR 5 [SIXTOP] sixtop return code RC_SEQNUM_ERR at sixtop state WAIT_ADDREQUEST_SENDDONE
+11:46:58 INFO 5 [SIXTOP] sending a 6top request
+11:47:00 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_CLEARRESPONSE
+11:47:00 INFO 5 [SIXTOP] sending a 6top request
+11:47:00 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+11:47:01 SUCCESS 5 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state IDLE
+11:47:24 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 3]
+11:47:38 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:47:41 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+11:47:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:47:54 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 2]
+11:48:00 SUCCESS 4 [IEEE802154E] synchronized at slotOffset 0
+11:48:01 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:48:06 INFO 4 [SIXTOP] sending a 6top request
+11:48:06 SUCCESS 4 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+11:48:08 ERROR no source route to [187, 187, 0, 0, 0, 0, 0, 0, 20, 21, 146, 204, 0, 0, 0, 1]
+11:48:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:48:17 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:48:18 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:48:19 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1422 into an IPv6 packet of size 89
+11:48:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+11:48:23 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:48:25 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:48:37 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:48:41 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:48:42 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+11:48:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:48:48 SUCCESS 1 [IEEE802154E] synchronized at slotOffset 0
+11:48:49 INFO 1 [SIXTOP] sending a 6top request
+11:48:49 SUCCESS 1 [SIXTOP] sixtop return code RC_SUCCESS at sixtop state WAIT_ADDRESPONSE
+11:48:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:48:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:48:59 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:49:19 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1689 into an IPv6 packet of size 90
+11:49:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+11:49:19 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:49:40 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1690 into an IPv6 packet of size 90
+11:49:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+11:49:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:11 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1691 into an IPv6 packet of size 90
+11:50:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+11:50:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:22 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:28 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1692 into an IPv6 packet of size 90
+11:50:28 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:3
+11:50:33 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1423 into an IPv6 packet of size 89
+11:50:33 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:4
+11:50:39 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:47 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:49 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1694 into an IPv6 packet of size 90
+11:50:49 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+11:50:50 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1424 into an IPv6 packet of size 89
+11:50:50 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+11:50:52 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:53 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1425 into an IPv6 packet of size 89
+11:50:53 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+11:50:54 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:55 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:50:56 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1426 into an IPv6 packet of size 89
+11:50:56 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+11:51:11 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1427 into an IPv6 packet of size 89
+11:51:11 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+11:51:24 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:51:34 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:51:43 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1517 into an IPv6 packet of size 89
+11:51:43 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+11:51:46 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1696 into an IPv6 packet of size 90
+11:51:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+11:52:02 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1518 into an IPv6 packet of size 89
+11:52:02 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+11:52:03 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:1
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+11:52:12 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1428 into an IPv6 packet of size 89
+11:52:12 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:3
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:5
+11:52:40 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1698 into an IPv6 packet of size 90
+11:52:40 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:5
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:2
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
+11:52:46 SUCCESS [GATEWAY] Reassembled 2 frags with tag 1519 into an IPv6 packet of size 89
+11:52:46 INFO received RPL DAO from bbbb:0:0:0:1415:92cc:0:4
+	- parents:
+	   bbbb:0:0:0:1415:92cc:0:3
+	- children:
+	   bbbb:0:0:0:1415:92cc:0:1
