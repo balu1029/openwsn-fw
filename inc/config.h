@@ -151,7 +151,7 @@
  *
  */
 #ifndef OPENWSN_UECHO_DUP_C
-#define OPENWSN_UECHO_DUP_C (1)
+#define OPENWSN_UECHO_DUP_C (0)
 #endif
 
 /**

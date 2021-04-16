@@ -19,6 +19,8 @@ udp_socket_vars_t udp_socket_vars;
 static EH_UDP_SOCKET_T sock_info[NUM_SOCKETS];
 static uint32_t        sockcount = 0;
 
+sock_udp_t sock;
+
 
 #define SOCKET_ISACTIVE(i)      (sock_info[(i)].socket_state & 0x1)
 #define SOCKET_ACTIVATE(i)      (sock_info[(i)].socket_state |= 0x1)
@@ -77,6 +79,7 @@ int16_t udp_socket_socket(int16_t domain, int16_t type, int16_t protocol)
 *****************************************************************************/
 int16_t udp_socket_bind(int16_t socket, const struct sockaddr *address, uint8_t length, void* callback)
 {
+    sock_udp_ep_t local;
     int16_t retval;
     if (socket < 0)
     {
@@ -96,6 +99,10 @@ int16_t udp_socket_bind(int16_t socket, const struct sockaddr *address, uint8_t 
             sock_info[socket].udp_rsc_desc.callbackReceive = callback;
             sock_info[socket].udp_rsc_desc.callbackSendDone = NULL; // use default send_done handler
             //openudp_register(&sock_info[socket].udp_rsc_desc);
+
+            local.port = addr_in6->sin6_port;
+            sock_udp_create(&sock, &local, NULL ,0);
+            sock_udp_set_cb(&sock, &udp_socket_deliver_msg_to_sockets, NULL);
     		retval = 0;
     	}
     	else
@@ -196,31 +203,43 @@ int16_t udp_socket_sendto(int16_t socket, const void *buffer, size_t length, int
 
 
 
-void udp_socket_deliver_msg_to_sockets(OpenQueueEntry_t* msg)
+void udp_socket_deliver_msg_to_sockets(sock_udp_t *sock, sock_async_flags_t type, void *arg)
 {
+    sock_udp_ep_t remote;
     int16_t receiving_socket = INVALID_SOCKET;
+    int16_t res;
+    char buf[50];
 
-    receiving_socket = find_udp_socket(UIP_HTONS(msg->l4_destination_port), null_addr);
+    res = sock_udp_recv(sock, buf, sizeof(buf), 0, &remote);
+    receiving_socket = find_udp_socket(UIP_HTONS(sock->gen_sock.local.port), null_addr);
+
     if (((receiving_socket >= 0 ) && (receiving_socket <= NUM_SOCKETS)) && (SOCKET_ISACTIVE(receiving_socket)))
     {
         INTERRUPT_DECLARATION();
         DISABLE_INTERRUPTS();
-        if (((msg->length > 0) && (msg->length <= MAX_PAYLOAD_SIZE )) && ( sock_info[receiving_socket].dataptr != NULL))
-        {
-            memcpy((void *)&sock_info[receiving_socket].hostaddr.sin6_addr, (void*)&msg->l3_sourceAdd.addr_128b[0], IP_ADDR_LEN);
-            sock_info[receiving_socket].hostaddr.sin6_port =  UIP_HTONS(msg->l4_sourcePortORicmpv6Type);
-            memcpy(sock_info[receiving_socket].dataptr, msg->payload, MAX_PAYLOAD_SIZE);
-            sock_info[receiving_socket].datalen  = msg->length;
+
+        if (res = sock_udp_recv(sock, buf, sizeof(buf), 0, &remote) >= 0) {
+            memcpy((void*) &sock_info[receiving_socket].hostaddr.sin6_addr, (void*) &sock->gen_sock.remote.addr.ipv6, IP_ADDR_LEN);
+            sock_info[receiving_socket].hostaddr.sin6_port = UIP_HTONS(sock->gen_sock.remote.port);
+            memcpy(sock_info[receiving_socket].dataptr, res, MAX_PAYLOAD_SIZE);
+            sock_info[receiving_socket].datalen  = sizeof(res);
             sock_info[receiving_socket].recv_udp_flag = UDP_REC;
         }
+        
+        // if (((msg->length > 0) && (msg->length <= MAX_PAYLOAD_SIZE )) && ( sock_info[receiving_socket].dataptr != NULL))
+        // {
+        //     memcpy((void *)&sock_info[receiving_socket].hostaddr.sin6_addr, (void*)&msg->l3_sourceAdd.addr_128b[0], IP_ADDR_LEN);
+        //     sock_info[receiving_socket].hostaddr.sin6_port =  UIP_HTONS(msg->l4_sourcePortORicmpv6Type);
+        //     memcpy(sock_info[receiving_socket].dataptr, msg->payload, MAX_PAYLOAD_SIZE);
+        //     sock_info[receiving_socket].datalen  = msg->length;
+        //     sock_info[receiving_socket].recv_udp_flag = UDP_REC;
+        // }
         ENABLE_INTERRUPTS();
     }
     else
     {
         receiving_socket = INVALID_SOCKET;
     }
-
-    openqueue_freePacketBuffer(msg);
 }
 
 //=========================== private =========================================

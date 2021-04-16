@@ -3,6 +3,8 @@
 
 #include "udp.h"
 #include "opendefs.h"
+#include "async_types.h"
+#include "sock.h"
 //=========================== define ==========================================
 #define UIP_BIG_ENDIAN     0x1234
 #define UIP_LITTLE_ENDIAN  0x3412
@@ -290,6 +292,6 @@ int16_t udp_socket_close(int16_t socket);
  *              running over openUdp do.
  * @param msg Message to be delivered to sockets
  */
-void udp_socket_deliver_msg_to_sockets(OpenQueueEntry_t* msg);
+void udp_socket_deliver_msg_to_sockets(sock_udp_t *sock, sock_async_flags_t type, void *arg);
 
 #endif
